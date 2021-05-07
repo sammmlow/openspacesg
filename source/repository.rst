@@ -3,17 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-OPENSSG
-=======
+Hello world!
+============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   about.rst
-   newsletters.rst
-   repository.rst
-   contributing.rst
+   :maxdepth: 1
    
 
 
@@ -21,7 +15,6 @@ OPENSSG
 Indices and tables
 ==================
 
-* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
