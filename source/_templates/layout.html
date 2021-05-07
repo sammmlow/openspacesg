@@ -1,20 +1,28 @@
 {% extends "!layout.html" %}
 
+{% block header %}
+<div class="pageheader">
+	<img src="{{ pathto('_static/openssg_header.png', 1) }}" alt="SPHINX" />
+</div>
+{% endblock %}
 
 {% block rootrellink %}
 		<li><a href="{{ pathto('index') }}">Home</a>|&nbsp;</li>
 		<li><a href="{{ pathto('about') }}">About</a>|&nbsp;</li>
-		<li><a href="{{ pathto('newsletters') }}">Newsletters</a>|&nbsp;</li>
-		<li><a href="{{ pathto('repository') }}">Repository</a>|&nbsp;</li>
-		<li><a href="{{ pathto('contributing') }}">Contributing</a>|&nbsp;</li>
+		<li><a href="{{ pathto('news') }}">Newsletters</a>|&nbsp;</li>
+		<li><a href="{{ pathto('repo') }}">Repository</a>|&nbsp;</li>
+		<li><a href="{{ pathto('contrib') }}">Contributing</a>|&nbsp;</li>
+		<li><a href="{{ pathto('conduct') }}">Code of Conduct</a>|&nbsp;</li>
 		<li><a href="{{ pathto('search') }}">Search</a>|&nbsp;</li>
 {% endblock %}
-
 
 {% block relbar1 %}
 
 <div style="background-color: white; text-align: left; padding: 10px 10px 15px 15px">
-<a href="{{ pathto('index') }}"><h1 style="font-size: 3em;">OPEN SPACE SG</h1></a>
+	<a href="{{ pathto('index') }}">
+		<h1 style="font-size: 2em;">
+			Welcome to the Open Space Research Community of Singapore!
+		</h1></a>
 </div>
 {{ super() }}
 {% endblock %}

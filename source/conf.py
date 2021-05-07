@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Open Space Research Community of Singapore'
-copyright = '2021, Samuel Y. W. Low'
-author = 'Samuel Y. W. Low'
+copyright = '2021, The Open Space SG Community'
+author = 'The Open Space SG Community'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -53,3 +53,14 @@ html_theme = 'sphinxdoc'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = ['_static/openssg.css']
+
+# The above approach is preferred for adding additional stylesheets or
+# JavaScript, but it is also possible to completely replace a Sphinx theme’s
+# stylesheet with your own stylesheet. If your replacement stylesheet exists
+# at _static/yourtheme.css, you can replace your theme’s CSS file by setting
+# html_style in your conf.py:
+# html_style = '_static/basic.css'

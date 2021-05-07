@@ -1,19 +1,24 @@
-.. Open Space Research Community of Singapore documentation master file, created by
-   sphinx-quickstart on Thu May  6 15:58:45 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Open Space Research Community of Singapore
+   Documentation master file, created by Samuel Y. W. Low
+   Using sphinx-quickstart on Tuesday, May 4th
+   (May the Fourth be with you...)
+   This file should contain the root `toctree` directive.
 
-OPENSSG
-=======
+
+Open Space Singapore Home Page
+------------------------------
+
+Enter some fancy text here
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
    about.rst
-   newsletters.rst
-   repository.rst
-   contributing.rst
+   news.rst
+   repo.rst
+   contrib.rst
+   conduct.rst
    
 
 
