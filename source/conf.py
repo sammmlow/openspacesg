@@ -19,7 +19,7 @@
 
 project = 'Open Space Research Community of Singapore'
 copyright = '2021, The Open Space SG Community'
-author = 'The Open Space SG Community'
+author = 'Samuel Y. W. Low'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
@@ -28,10 +28,8 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
-# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
-# ones.
-extensions = [
-]
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
+extensions = [ 'sphinx_panels' ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -40,7 +38,6 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -53,14 +50,3 @@ html_theme = 'sphinxdoc'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-# These paths are either relative to html_static_path
-# or fully qualified paths (eg. https://...)
-html_css_files = ['_static/openssg.css']
-
-# The above approach is preferred for adding additional stylesheets or
-# JavaScript, but it is also possible to completely replace a Sphinx theme’s
-# stylesheet with your own stylesheet. If your replacement stylesheet exists
-# at _static/yourtheme.css, you can replace your theme’s CSS file by setting
-# html_style in your conf.py:
-# html_style = '_static/basic.css'

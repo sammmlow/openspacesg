@@ -1,27 +1,36 @@
-.. Open Space Research Community of Singapore documentation master file, created by
-   sphinx-quickstart on Thu May  6 15:58:45 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Open Space Research Community of Singapore
+   Documentation master file, created by Samuel Y. W. Low
+   Using sphinx-quickstart on Tuesday, May 4th
+   (May the Fourth be with you...)
+   This file should contain the root `toctree` directive.
 
-An Introduction to Contributing
-===============================
+Contributing to Open Space Singapore
+====================================
 
-The Open Space Singapore initiative is purely community-driven, and as such, this project is open-sourced and thus contributable in all ways imaginable. Here are several ways you can contribute!
+The Open Space Singapore project is purely community-driven research interest group, and as such, this project is open-sourced and thus contributable in all ways imaginable. Here are several ways you can contribute!
 
-* Submit and share your research (PDF) in the OSPACESG
+* Write and share your research in the yearly OSSG Research Workshop.
+* Review the community research work by joining as a panel peer reviewer.
+* Join the web development team that runs the online community.
+* Join the editorial team that runs our community quarterly newsletters.
+
+You can join the community simply by subscribing to our mailing list in the home page! However, before you do, the OSSG community urges you to peruse our community Code of Conduct.
+
+Writing and Sharing Your Research
+---------------------------------
+
+Reviewing the Research of Others
+--------------------------------
+
+Collaborating with the Development Team
+---------------------------------------
 
 
-As the Open Space Singapore is a pure community initiative driven by our shared enthusiasm and passions for space science and space technology research, the entirety of this project is open-sourced and is contributable in all ways imaginable. There are several ways in which you, our fellow community member, can contribute:
 
-* Presenting your research through our community 
+The first step 
 
-Hello there, fellow community member, there are several ways in which you can contribute to this initiative.
 
-there are several ways in which you can contribute to this initiat
 
-guidelines
-
-respectful-ness and prof
 
 .. toctree::
    :maxdepth: 1
