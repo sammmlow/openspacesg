@@ -7,12 +7,10 @@
 Community Code of Conduct
 =========================
 
-Open Space Singapore is a volunteer-driven community interest group with a sincere passion for the development of space science and technology, in Singapore. Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning and good-spirited community, a proper code of conduct would be helpful to guide us in our growth towards ethical and professional conduct.
+Open Space Singapore is a volunteer-driven community interest group with a sincere passion for the development of space science and technology, in Singapore. Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning and good-spirited community, a properly established code of conduct would be helpful to guide the community in its ethical and professional conduct.
 
-It is therefore, agreed upon by members of the Open Space Singapore (OSSG) Community, that the following code of conduct, also open-sourced and written by said members of the community, will be adhered to as ethically and as professionally as possible, in all manner of participation and contribution. It is also agreed upon that the following codes of conduct are general guidelines for the community, and not to be interpreted as an article of the law, a statute, or a part of the constitution of Singapore.
+It is therefore agreed upon by members of the Open Space Singapore (OSSG) Community, that the following code of conduct, also open-sourced and written by said members of the community, will be adhered to as ethically and as professionally as possible, in all manner of participation and contribution. It is also agreed upon that the following codes of conduct are general guidelines for the community, and not to be interpreted or represented as a formal article of the law, a legal statute, or a part of the constitution of Singapore.
 
-|
-|
 |
 
 Code of Conduct for All Participants
@@ -27,8 +25,6 @@ Harassment, understood as unwanted physical or verbal behaviour that is offensiv
 Falsification of information for the purposes of manipulation, misinformation, or deception of the community will not be tolerated. Proliferating false information that damages the community or public interest through the internet, especially through the OSSG community to the general public, is a chargeable offence under the Protection from Online Falsehoods Act (POFMA).
 
 |
-|
-|
 
 Code of Conduct for Authors
 ---------------------------
@@ -42,8 +38,6 @@ Third, it is the responsibility of the author to ensure that any sharing of rese
 Finally, authors are encouraged to openly welcome all honest feedback from the reviewing panel, and to maintain mutual respect and decency, for all intents and purposes, while discussing with their reviewers on how their research item can be improved.
 
 |
-|
-|
 
 Code of Conduct for Reviewers
 -----------------------------
@@ -55,16 +49,12 @@ Second, given the small size of our space community, reviewers should be mindful
 Third, reviewers are expected to treat manuscripts or presentation files with strict confidentiality (within the reviewing panel and administrators) before the commencement of the OSSG workshops and seminars; all the more so, if the author intends to eventually publish their works in a closed academic journal.
 
 |
-|
-|
 
 Code of Conduct for the Editorial Team
 --------------------------------------
 
 The editorial team's key responsibility is to ensure that the community can keep themselves updated with the research and development happenings in the Open Space Singapore Community. As such, the principal contribution of the editorial team should be to ensure that information is formatted in a comprehensible manner for the community; curated and chosen without any discrimination or biased selectivity of information; and disseminated to all in the OSSG mailing list. Finally, the editorial team should also keep the OSSG mailing list up to date.
 
-|
-|
 |
 
 Code of Conduct for the Development Team
@@ -77,12 +67,19 @@ The OSSG website is templated using Sphinx v3 on Python 3. Thus, the entire web 
 For all community space projects, including the development of the OSSG website, which involve a fair amount of programming or software management, the development team should follow standard Git workflow and best practices where needed in the development of the site or management of any other community project in general. Collaborator rights on GitHub (or any other Git-based application such as BitBucket or GitLabs) should not be given on any discriminatory grounds (see Code of Conduct for All Participants). There are plenty of tutorials by GitHub on `Git practices and standard workflows <https://guides.github.com/introduction/flow/>`_. Atlassian also gives decent `introductory tutorials on Git <https://www.atlassian.com/git/tutorials>`_ in general. Project issues should also be raised using the "Issues" tab or equivalent in the Git repository specific to that project, with proper assignment of roles and with mutual code reviews.
 
 |
-|
+
+Notes to External Readers
+-------------------------
+
+The Open Space Singapore (OSSG) Community Initiative follows an open-source spirit, not only in terms of its projects and research, but also in the attitude towards a radical transparency in the community that focuses purely on improving our members as scientists and engineers in the Singapore space industry.
+
+In this spirit, and as per the MIT License accorded to this project, permission is hereby granted, free of charge, to any person obtaining a copy of this webpage's documentation files to deal without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the OSSG website source code, and to permit persons to whom the source code is furnished to do so, subject to the condition that the above copyright notice and the MIT License be included in all copies or substantial portions of the OSSG web source code.
+
 |
 |
 |
 
-*Last Written on 07-May-2021, 5:12PM, by Samuel Low*
+*Last Written on 07-May-2021, 11:14PM, by Samuel Y. W. Low*
 
 *This Code of Conduct has been signed by* **1** *participants.*
 
