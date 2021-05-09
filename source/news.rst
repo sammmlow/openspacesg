@@ -4,6 +4,8 @@
    (May the Fourth be with you...)
    This file should contain the root `toctree` directive.
 
+.. image:: /_static/openssg_titlehead_news.png
+
 The Quarterly Newsletter
 ========================
 
