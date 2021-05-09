@@ -1,5 +1,11 @@
 {% extends "!layout.html" %}
 
+{% block extrahead %}
+    <meta property="og:title" content="Open Space Singapore">
+	<meta property="og:description" content="Open Space Singapore">
+	<meta property="og:image" content="{{ pathto('_static/openssg_thumbnail.png', 1) }}">
+{% endblock %}
+
 {% block header %}
 <div class="pageheader">
 	<img src="{{ pathto('_static/openssg_header.png', 1) }}" alt="SPHINX" />
