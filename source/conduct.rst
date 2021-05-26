@@ -4,16 +4,20 @@
    (May the Fourth be with you...)
    This file should contain the root `toctree` directive.
 
-.. image:: /_static/openssg_titlehead_conduct.png
+.. image:: /_static/_headers/openssg_head_conduct.png
+
+.. _conduct-label:
 
 Community Code of Conduct
 =========================
 
-Open Space Singapore is a volunteer-driven community interest group with a sincere passion for the development of space science and technology, in Singapore. Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning and good-spirited community, a properly established code of conduct would be helpful to guide the community in its ethical and professional conduct.
+Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning and good-spirited community, a properly established code of conduct would be helpful to guide the community in its ethical and professional conduct.
 
 It is therefore agreed upon by members of the Open Space Singapore (OSSG) Community, that the following code of conduct, also open-sourced and written by said members of the community, will be adhered to as ethically and as professionally as possible, in all manner of participation and contribution. It is also agreed upon that the following codes of conduct are general guidelines for the community, and not to be interpreted or represented as a formal article of the law, a legal statute, or a part of the constitution of Singapore.
 
 |
+
+.. _conduct-all-label:
 
 Code of Conduct for All Participants
 ------------------------------------
@@ -28,10 +32,12 @@ Falsification of information for the purposes of manipulation, misinformation, o
 
 |
 
+.. _conduct-authors-label:
+
 Code of Conduct for Authors
 ---------------------------
 
-First, authors are encouraged to submit abstracts about their current research projects and share development updates on their exciting space projects, where disclosable. For research-focused items, authors should ensure that the research holds technically accurate content and that the delivery is clear, comprehensible and concise. 
+First, authors are strongly encouraged to submit abstracts about their current research projects through the sign-up form, and share development updates on their exciting space projects only where disclosable. For research-focused items, authors should ensure that the research holds technically accurate content and that the delivery is clear, comprehensible and concise. 
 
 Second, authors must ensure that the work is free of plagiarism. Authors must not pass off the work or ideas of other authors as their own. If presenting the ideas of others, it should be presented as a literature review or structured in a narrative that leads to the author's original objective of the topic being discussed. Plagiarism is an unacceptable behaviour in any research community, and could lead to severe legal and ethical consequences. Authors must also not give false credit or mis-attributions to another contributor, with the intent of deliberate dishonesty or deceit.
 
@@ -40,6 +46,8 @@ Third, it is the responsibility of the author to ensure that any sharing of rese
 Finally, authors are encouraged to openly welcome all honest feedback from the reviewing panel, and to maintain mutual respect and decency, for all intents and purposes, while discussing with their reviewers on how their research item can be improved.
 
 |
+
+.. _conduct-reviewers-label:
 
 Code of Conduct for Reviewers
 -----------------------------
@@ -52,6 +60,8 @@ Third, reviewers are expected to treat manuscripts or presentation files with st
 
 |
 
+.. _conduct-editors-label:
+
 Code of Conduct for the Editorial Team
 --------------------------------------
 
@@ -59,21 +69,25 @@ The editorial team's key responsibility is to ensure that the community can keep
 
 |
 
+.. _conduct-devs-label:
+
 Code of Conduct for the Development Team
 ----------------------------------------
 
-The development team is advised to play a web-master role and ensuring that the OSSG website remains well-maintained for all the purposes of supporting the activities of the community and the archival of community research and development projects. The OSSG site runs on `GitHub Pages <https://pages.github.com/>`_, and the `master branch is found here <https://github.com/sammmlow/OPENSPACESG>`_.
+The development team is advised to play a web-master role and ensuring that the OSSG website remains well-maintained for all the purposes of supporting the activities of the community and the archival of community research and development projects. The OSSG site runs on `GitHub Pages <https://pages.github.com/>`_, and the `master branch is found here <https://github.com/sammmlow/OPENSPACESG>`_. Thus, this entire website is open-sourced and available for edit.
 
-The OSSG website is templated using Sphinx v3 on Python 3. Thus, the entire web was written in reStructuredText (ReST) and configured with Python; HTML / CSS / JavaScript knowledge is not needed unless you wish to add custom features to the OSSG HTML template and layout files.
+The OSSG website is templated using Sphinx v3 on Python 3. The entire web was written in reStructuredText (ReST), making it simple and code-free, and configured with Python. Knowledge on HTML / CSS / JavaScript is not needed unless you wish to add custom features to the OSSG HTML template and layout files.
 
-For all community space projects, including the development of the OSSG website, which involve a fair amount of programming or software management, the development team should follow standard Git workflow and best practices where needed in the development of the site or management of any other community project in general. Collaborator rights on GitHub (or any other Git-based application such as BitBucket or GitLabs) should not be given on any discriminatory grounds (see Code of Conduct for All Participants). There are plenty of tutorials by GitHub on `Git practices and standard workflows <https://guides.github.com/introduction/flow/>`_. Atlassian also gives decent `introductory tutorials on Git <https://www.atlassian.com/git/tutorials>`_ in general. Project issues should also be raised using the "Issues" tab or equivalent in the Git repository specific to that project, with proper assignment of roles and with mutual code reviews.
+For all community space projects, including the development of the OSSG website, the development team should follow standard Git workflow and best practices where needed in the development of the site or management of any other community project in general. Collaborator rights on GitHub (or any other Git-based application such as BitBucket or GitLabs) should not be given on any discriminatory grounds (see Code of Conduct for All Participants). There are plenty of tutorials by GitHub on `Git practices and standard workflows <https://guides.github.com/introduction/flow/>`_. Atlassian also gives decent `introductory tutorials on Git <https://www.atlassian.com/git/tutorials>`_ in general. Project issues should also be raised using the "Issues" tab or equivalent in the Git repository specific to that project, with proper assignment of roles and with mutual code reviews.
 
 |
 
-Notes to External Readers
--------------------------
+.. _conduct-license-label:
 
-The Open Space Singapore (OSSG) Community Initiative follows an open-source spirit, not only in terms of its projects and research, but also in the attitude towards a radical transparency in the community that focuses purely on improving our members as scientists and engineers in the Singapore space industry.
+Licensing Notes to External Readers
+-----------------------------------
+
+The Open Space Singapore (OSSG) Community Initiative follows an open-source spirit, not only in terms of its projects and research, but also in the attitude towards a radical transparency in the community that focuses purely on improving our members as scientists and engineers in the Singapore aerospace industry.
 
 In this spirit, and as per the MIT License accorded to this project, permission is hereby granted, free of charge, to any person obtaining a copy of this webpage's documentation files to deal without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the OSSG website source code, and to permit persons to whom the source code is furnished to do so, subject to the condition that the above copyright notice and the MIT License be included in all copies or substantial portions of the OSSG web source code.
 

@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Open Space Research Community of Singapore'
-copyright = '2021, The Open Space SG Community'
+project = 'Open Space SG'
+copyright = '2021, The Open Space Singapore Community'
 author = 'Samuel Y. W. Low'
 
 # The full version, including alpha/beta/rc tags
@@ -43,10 +43,16 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
+html_title = 'Open Space Singapore'
+html_short_title = 'Open Space Singapore'
+
+# Select the Sphinx Doc theme.
 html_theme = 'sphinxdoc'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Add the HTML logo.
+html_favicon = '_static/_icons/openssg_favicon.png'

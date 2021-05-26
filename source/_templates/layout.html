@@ -1,32 +1,26 @@
 {% extends "!layout.html" %}
 
 {% block extrahead %}
-    <meta property="og:title" content="Open Space Singapore">
-	<meta property="og:description" content="Open Space Singapore">
-	<meta property="og:image" content="{{ pathto('_static/openssg_thumbnail.png', 1) }}">
+    <meta property="og:title" content="The Open Space Singapore Community">
+	<meta property="og:description" content="The Open Space Singapore Community">
+	<meta property="og:image" content="{{ pathto('_static/_banners/openssg_banner_thumb.png', 1) }}">
 {% endblock %}
 
 {% block header %}
-<div class="pageheader">
-	<img src="{{ pathto('_static/openssg_header.png', 1) }}" alt="SPHINX" />
-</div>
-{% endblock %}
-
-{% block rootrellink %}
-		<li><a href="{{ pathto('index') }}">Home</a>|&nbsp;</li>
-		<li><a href="{{ pathto('about') }}">About</a>|&nbsp;</li>
-		<li><a href="{{ pathto('news') }}">Newsletters</a>|&nbsp;</li>
-		<li><a href="{{ pathto('repo') }}">Repository</a>|&nbsp;</li>
-		<li><a href="{{ pathto('contrib') }}">Contributing</a>|&nbsp;</li>
-		<li><a href="{{ pathto('conduct') }}">Code of Conduct</a>|&nbsp;</li>
-		<li><a>Current Page -</a></li>
+	<div class="pageheader">
+		<img src="{{ pathto('_static/_banners/openssg_banner_head.png', 1) }}" alt="SPHINX" />
+	</div>
 {% endblock %}
 
 {% block relbar1 %}
-
-<div style="background-color: #739AA1; text-align: center; padding: 10px 10px 15px 15px"></div>
-
-{{ super() }}
+	<div style="background-color: #739AA1; text-align: center; padding: 10px 10px 15px 15px"></div>
+	<div style="background-color: #E1EAEB; text-align: center; padding: 10px 10px 15px 15px">
+		<strong><a href="{{ pathto('index') }}">HOME</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="{{ pathto('events') }}">NEWS AND EVENTS</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="{{ pathto('repo') }}">REPOSITORY</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="{{ pathto('about') }}">COMMUNITY</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="{{ pathto('contrib') }}">CONTRIBUTING</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="{{ pathto('conduct') }}">CODE OF CONDUCT</a></strong>
+	</div>
+	
 {% endblock %}
-
-

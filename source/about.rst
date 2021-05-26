@@ -4,12 +4,178 @@
    (May the Fourth be with you...)
    This file should contain the root `toctree` directive.
 
-.. image:: /_static/openssg_titlehead_about.png
+.. image:: /_static/_headers/openssg_head_about.png
 
-About Open Space Singapore
-==========================
+Community Members and Profiles
+==============================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The diversity and expertise of our people are the pillars for this community. With their spirit of innovation and collaboration, the community can foster much stronger bonds, exchange big ideas freely, and promote a more vibrant space community in Singapore. This page is dedicated as a directory of our community members.
+
+|
+
+.. panels::
+    :column: col-lg-3 col-md-3 col-sm-6 col-xs-6 p-2
+    :card: shadow
+	
+	---
+    :img-top: _static/_people/samlow.png
+
+    Samuel Low (Administrator)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+	
+	*Short Bio, Level 99 Wizard*
+	
+    ---
+    :img-top: _static/_people/sarthak.png
+	
+    Sarthak Srivastava (Administrator)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	
+    *Short Bio, Level 99 Wizard*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
+	
+	---
+    :img-top: _static/_people/unknown.png
+	
+    Member
+    ^^^^^^
+	
+    *Biography*
 
 .. toctree::
    :maxdepth: 1
