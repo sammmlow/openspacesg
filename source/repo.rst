@@ -18,7 +18,57 @@ Community Workshop (May 2021)
 	
 	This is the first sharing and introduction to the Open Space Singapore (OSSG) Community initiative. OSSG is a technical body of young professionals and students with a passion for the research and development of space science and engineering. Our missions are to, first, synergise the local aerospace community, second, create an avenue to channel our professional service back to the community, and third, to give our younger talents a runway for learning and career development. Our vision is a cohesive aerospace community where we celebrate open discourse and promote a free exchange of ideas and resources for the greater good and for the development of our community members.
 	
-	By: Samuel Low and Sarthak Srivastava
+	**By: Samuel Low and Sarthak Srivastava**
+	
+	.. link-button:: https://example.com
+		:text: Link to Paper
+		:classes: btn-success
+
+.. dropdown:: INSPIRing the Next Space Generation: Creating an International Academic Space Program
+	
+	*(Abstract Text Here)*
+	
+	**By: Dr Amal Chandran, Nanyang Technological University**
+	
+	.. link-button:: https://example.com
+		:text: Link to Paper
+		:classes: btn-success
+
+.. dropdown:: Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
+	
+	*(Abstract Text Here)*
+	
+	**By: Akshay Gulati, Infinite Orbits**
+	
+	.. link-button:: https://example.com
+		:text: Link to Paper
+		:classes: btn-success
+
+.. dropdown:: An Introduction to Planetary Micro-Rovers
+	
+	*(Abstract Text Here)*
+	
+	**By: Samuel Ong, Carnegie Mellon University**
+	
+	.. link-button:: https://example.com
+		:text: Link to Paper
+		:classes: btn-success
+
+.. dropdown:: Targeting Low-Thruster Earth-Moon Transfer Trajectories with Ballistic Capture
+	
+	*(Abstract Text Here)*
+	
+	**By: Lam Tze King, Aliena Pte Ltd**
+	
+	.. link-button:: https://example.com
+		:text: Link to Paper
+		:classes: btn-success
+
+.. dropdown:: Tutorial on Contributing to Open Space Singapore with Git
+	
+	*(Abstract Text Here)*
+	
+	**By: Samuel Low, DSO National Laboratories**
 	
 	.. link-button:: https://example.com
 		:text: Link to Paper
