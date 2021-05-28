@@ -22,7 +22,7 @@ Community Workshop (29 May 2021)
 	
 	**By: Samuel Low and Sarthak Srivastava**
 	
-	.. link-button:: https://example.com
+	.. link-button:: https://1drv.ms/b/s!AssV7HOfrQsbdR5EEtbm5yQybJg
 		:text: Link to Paper
 		:classes: btn-success
 
@@ -63,10 +63,10 @@ Community Workshop (29 May 2021)
 		:classes: btn-success
 
 
-.. dropdown:: Targeting Low-Thruster Earth-Moon Transfer Trajectories with Ballistic Capture
+.. dropdown:: Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
 	:animate: fade-in
 	
-	*(Abstract Text Here)*
+	A FreeFlyer algorithm is developed to find low-thrust Earth-Moon transfers with ballistic capture. Trajectory simulation is initialised near the Earth-Moon L1 Lagrange point where weak stability boundary conditions dominate. Forward and backward ballistic propagation allows for the longevity of temporal lunar capture to be characterised, while seeking stable high Earth orbit. A differential corrector varies initial parameters to achieve target geocentric semi-major axis through lunar gravitational assists in order to save fuel. Trajectories resulting in lunar crashes or ejection via L2 are truncated. A sample concept-of-operations from Geosynchronous Orbit to Low Lunar Orbit is simulated using ALIENA's MUSIC thruster.
 	
 	**By: Lam Tze King, Aliena Pte Ltd**
 	

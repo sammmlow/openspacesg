@@ -55,6 +55,7 @@ Please do check out our other site links for more information.
 	about.rst
 	contrib.rst
 	conduct.rst
+	career.rst
 
 To unsubscribe from the community, please click on the link below!
 
