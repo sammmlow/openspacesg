@@ -11,12 +11,14 @@ Community Repository and Archives
 
 In this page, you will find research material and shared papers from past Open Space SG workshops archived here.
 
-Community Workshop (May 2021)
------------------------------
+Community Workshop (29 May 2021)
+--------------------------------
+|
 
 .. dropdown:: An Introduction: The Open Space Singapore Community Initiative
+	:animate: fade-in
 	
-	This is the first sharing and introduction to the Open Space Singapore (OSSG) Community initiative. OSSG is a technical body of young professionals and students with a passion for the research and development of space science and engineering. Our missions are to, first, synergise the local aerospace community, second, create an avenue to channel our professional service back to the community, and third, to give our younger talents a runway for learning and career development. Our vision is a cohesive aerospace community where we celebrate open discourse and promote a free exchange of ideas and resources for the greater good and for the development of our community members.
+	This is the first sharing and introduction to the Open Space Singapore (OSSG) Community initiative. In this presentation, Samuel and Sarthak share the framework behind how the community is being run, what the community mission and vision is, and what activities and plans of action are to be expected over time.
 	
 	**By: Samuel Low and Sarthak Srivastava**
 	
@@ -24,7 +26,9 @@ Community Workshop (May 2021)
 		:text: Link to Paper
 		:classes: btn-success
 
+
 .. dropdown:: INSPIRing the Next Space Generation: Creating an International Academic Space Program
+	:animate: fade-in
 	
 	*(Abstract Text Here)*
 	
@@ -34,7 +38,9 @@ Community Workshop (May 2021)
 		:text: Link to Paper
 		:classes: btn-success
 
+
 .. dropdown:: Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
+	:animate: fade-in
 	
 	*(Abstract Text Here)*
 	
@@ -44,7 +50,9 @@ Community Workshop (May 2021)
 		:text: Link to Paper
 		:classes: btn-success
 
+
 .. dropdown:: An Introduction to Planetary Micro-Rovers
+	:animate: fade-in
 	
 	*(Abstract Text Here)*
 	
@@ -54,7 +62,9 @@ Community Workshop (May 2021)
 		:text: Link to Paper
 		:classes: btn-success
 
+
 .. dropdown:: Targeting Low-Thruster Earth-Moon Transfer Trajectories with Ballistic Capture
+	:animate: fade-in
 	
 	*(Abstract Text Here)*
 	
@@ -64,7 +74,9 @@ Community Workshop (May 2021)
 		:text: Link to Paper
 		:classes: btn-success
 
+
 .. dropdown:: Tutorial on Contributing to Open Space Singapore with Git
+	:animate: fade-in
 	
 	*(Abstract Text Here)*
 	
@@ -73,6 +85,7 @@ Community Workshop (May 2021)
 	.. link-button:: https://example.com
 		:text: Link to Paper
 		:classes: btn-success
+
 
 .. toctree::
    :maxdepth: 1

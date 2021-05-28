@@ -62,23 +62,27 @@ Third, reviewers are expected to treat manuscripts or presentation files with st
 
 .. _conduct-editors-label:
 
-Code of Conduct for the Editorial Team
---------------------------------------
+Code of Conduct for Editors
+---------------------------
 
-The editorial team's key responsibility is to ensure that the community can keep themselves updated with the research and development happenings in the Open Space Singapore Community. As such, the principal contribution of the editorial team should be to ensure that information is formatted in a comprehensible manner for the community; curated and chosen without any discrimination or biased selectivity of information; and disseminated to all in the OSSG mailing list. Finally, the editorial team should also keep the OSSG mailing list up to date.
+The editorial team's key responsibility is to play a web-master role, and to ensure that the community can keep themselves updated with the research and development happenings in the Open Space Singapore Community. As such, editors are entrusted with collaboration rights on the community's GitHub page. This means that editors are trusted to change web-content wherever and whenever, for the betterment of the community.
+
+In line with the professional expectations, editors must ensure that information is formatted in a comprehensible manner for the community on the web portal; curated and chosen without any discrimination or biased selectivity of information; and disseminated to all in the mailing list in a timely manner.
+
+In line with the editorial work flow, editors should follow standard Git workflow and best practices where needed in the development of the site or management of any other community project in general. Collaborator rights on the community GitHub should not be given on any discriminatory grounds.
 
 |
 
-.. _conduct-devs-label:
+.. _conduct-admin-label:
 
-Code of Conduct for the Development Team
-----------------------------------------
+Code of Conduct for Administrators
+----------------------------------
 
-The development team is advised to play a web-master role and ensuring that the OSSG website remains well-maintained for all the purposes of supporting the activities of the community and the archival of community research and development projects. The OSSG site runs on `GitHub Pages <https://pages.github.com/>`_, and the `master branch is found here <https://github.com/sammmlow/OPENSPACESG>`_. Thus, this entire website is open-sourced and available for edit.
+The OSSG Administrators are the core organisers of the community. As such, administrators possess the privilege of accessing the community materials, the community Outlook and OneDrive, as well as possessing collaborator rights on the community's GitHub page (as with the editorial team). Administrators hold a relatively large responsibility in the community, and are expected to represent the community well and pursue project or activities that are meaningful to the development of the community.
 
-The OSSG website is templated using Sphinx v3 on Python 3. The entire web was written in reStructuredText (ReST), making it simple and code-free, and configured with Python. Knowledge on HTML / CSS / JavaScript is not needed unless you wish to add custom features to the OSSG HTML template and layout files.
+In line with ethical conduct, administrators should first and foremost facilitate the community guidelines, including but not limited to the Community Code of Conduct, without bias to other members and without abuse of privilege. Second, the administrators must moderate discourse in the community using fair judgement and treatment in every situation. Third, the administrators should communicate to our community members in a professional and approachable manner, and refrain from allowing personal biases to influence community relationships. Fourth, the administrators should never create unprofessional community material that reflects poorly on themselves or the community (i.e. illegal material, racially or religiously harmful content, 
 
-For all community space projects, including the development of the OSSG website, the development team should follow standard Git workflow and best practices where needed in the development of the site or management of any other community project in general. Collaborator rights on GitHub (or any other Git-based application such as BitBucket or GitLabs) should not be given on any discriminatory grounds (see Code of Conduct for All Participants). There are plenty of tutorials by GitHub on `Git practices and standard workflows <https://guides.github.com/introduction/flow/>`_. Atlassian also gives decent `introductory tutorials on Git <https://www.atlassian.com/git/tutorials>`_ in general. Project issues should also be raised using the "Issues" tab or equivalent in the Git repository specific to that project, with proper assignment of roles and with mutual code reviews.
+In line with the expectations of the community's professional service, the administrators should also organise the activities with the inclusion of everyone in the community in mind. Administrators should also deliver the community material or announcements of new activities to members through the community email in a timely and responsible manner. Administrators should also ensure that community material on the OPENSSG web portal remains accurate, up-to-date, and relevant material.
 
 |
 
@@ -96,8 +100,6 @@ In this spirit, and as per the MIT License accorded to this project, permission 
 |
 
 *Last Written on 07-May-2021, 11:14PM, by Samuel Y. W. Low*
-
-*This Code of Conduct has been signed by* **1** *participants.*
 
 .. toctree::
    :maxdepth: 1

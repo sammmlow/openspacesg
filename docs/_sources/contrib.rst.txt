@@ -6,6 +6,8 @@
 
 .. image:: /_static/_headers/openssg_head_contrib.png
 
+.. _contrib-label:
+
 Contributing to Open Space Singapore
 ====================================
 
@@ -16,35 +18,7 @@ The Open Space Singapore project is purely community-driven research interest gr
 * Join the development team that runs our online community.
 * Join the editorial team that runs our quarterly newsletters.
 
-You can join the community simply by subscribing to our mailing list in the home page! However, before you do, the OSSG community urges you to peruse our community Code of Conduct.
-
-Writing and Sharing Your Research
----------------------------------
-
-Submit your abstracts from 1st May 2021 - 31st May 2021, and our reviewing panel will 
-
-Read the code of conduct for authors here.
-
-https://openspacesg.com/conduct.html#code-of-conduct-for-authors
-
-Reviewing the Research of Others
---------------------------------
-
-Join the community as part of the reviewing panel, especially in your domain of research!
-
-
-Collaborating with the Development Team
----------------------------------------
-
-Collaborating with the Development Team
----------------------------------------
-
-
-
-The first step 
-
-
-
+You can join the community simply by subscribing to our mailing list in the home page! However, before you do, the OSSG community urges you to peruse our :ref:`conduct-label`.
 
 .. toctree::
    :maxdepth: 1

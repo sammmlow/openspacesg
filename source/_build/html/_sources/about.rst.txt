@@ -14,41 +14,30 @@ The diversity and expertise of our people are the pillars for this community. Wi
 |
 
 .. panels::
-    :column: col-lg-3 col-md-3 col-sm-6 col-xs-6 p-2
+    :column: col-lg-4 col-md-4 col-sm-3 col-xs-3
     :card: shadow
+	:font-size: 6
 	
 	---
     :img-top: _static/_people/samlow.png
-
-    Samuel Low (Administrator)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^
 	
-	*Short Bio, Level 99 Wizard*
+    Sam Low (Administrator)
+    ^^^^^^^^^^^^^^^^^^^^^^^
 	
-    ---
+    Research Scientist at DSO. MS Candidate at Stanford University. Research on GNC algorithms for distributed satellite systems and formation flying. Runs on coffee.
+	
+    :badge:`sammmlow@gmail.com,badge-info`
+	
+	---
     :img-top: _static/_people/sarthak.png
 	
-    Sarthak Srivastava (Administrator)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    Sarthak (Administrator)
+    ^^^^^^^^^^^^^^^^^^^^^^^
 	
-    *Short Bio, Level 99 Wizard*
+    Aerospace Engineer at AGI. PhD candidate at NTU. Research on gravity waves in planetary atmospheres, and expertise in satellite systems and ADCS. Lifts and plays drums.
 	
-	---
-    :img-top: _static/_people/unknown.png
-	
-    Member
-    ^^^^^^
-	
-    *Biography*
-	
-	---
-    :img-top: _static/_people/unknown.png
-	
-    Member
-    ^^^^^^
-	
-    *Biography*
-	
+    :badge:`sarthak.srivastava3@gmail.com,badge-info`
+    
 	---
     :img-top: _static/_people/unknown.png
 	
