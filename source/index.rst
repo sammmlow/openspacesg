@@ -38,7 +38,7 @@ Our community is a community of professionals, rather than a professional commun
 	---
 	
 	.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-		:text: LINK TO JOIN THE COMMUNITY
+		:text: JOIN US!
 		:classes: btn-link stretched-link font-weight-bold text-light
 
 |
@@ -71,7 +71,7 @@ To unsubscribe from the community, please click on the link below!
 	---
 
 	.. link-button:: https://forms.office.com/r/ALd2FPtpeq
-		:text: LINK TO UNSUBSCRIBE FROM THE COMMUNITY
+		:text: UNSUBSCRIBE HERE!
 		:classes: btn-link stretched-link font-weight-bold text-light
 
 |
