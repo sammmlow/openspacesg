@@ -19,7 +19,7 @@
 
 project = 'Open Space SG'
 copyright = '2021, The Open Space Singapore Community'
-author = 'Samuel Y. W. Low'
+author = 'OSSG'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'

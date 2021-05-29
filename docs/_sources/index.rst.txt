@@ -25,21 +25,9 @@ We work towards our goals first and foremost by making sure we love our tradecra
 
 Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. If you would love to make a difference to the community, join our community and be a contributor!
 
-|
-
-.. panels::
-	:container: container-fluid pb-1
-	:column: col-lg-12 col-md-12 col-sm-12 col-xs-12 p-2
-	:card: shadow text-center
-	:body: bg-secondary
-	:header: border-0
-	:footer: border-0
-	
-	---
-	
-	.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-		:text: JOIN US!
-		:classes: btn-link stretched-link font-weight-bold text-light
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+	:text: JOIN US!
+	:classes: btn-success btn-block font-weight-bold
 
 |
 
@@ -55,24 +43,11 @@ Please do check out our other site links for more information.
 	about.rst
 	contrib.rst
 	conduct.rst
-	career.rst
 
 To unsubscribe from the community, please click on the link below!
 
-|
-
-.. panels::
-	:container: container-fluid pb-1
-	:column: col-lg-12 col-md-12 col-sm-12 col-xs-12 p-2
-	:card: shadow text-center
-	:body: bg-secondary
-	:header: border-0
-	:footer: border-0
-	
-	---
-
-	.. link-button:: https://forms.office.com/r/ALd2FPtpeq
-		:text: UNSUBSCRIBE HERE!
-		:classes: btn-link stretched-link font-weight-bold text-light
+.. link-button:: https://forms.office.com/r/ALd2FPtpeq
+	:text: UNSUBSCRIBE
+	:classes: btn-success btn-block font-weight-bold
 
 |

@@ -35,7 +35,7 @@ Our Community Members
     Sarthak (Administrator)
     ^^^^^^^^^^^^^^^^^^^^^^^
     
-    Aerospace Engineer at AGI. PhD candidate at NTU. Research on gravity waves in planetary atmospheres, and expertise in satellite systems and ADCS. Lifts and plays drums.
+    Aerospace Engineer at AGI. PhD Candidate at NTU. Research on gravity waves in planetary atmospheres, and expertise in satellite systems and ADCS. Lifts and plays drums.
     
     :badge:`sarthak.srivastava3@gmail.com,badge-info`
     

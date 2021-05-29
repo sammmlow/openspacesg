@@ -180,7 +180,6 @@ Now, let's re-write all of that, but in very specific steps this time.
 	_templates/
 	_static/
 	about.rst
-	career.rst
 	conduct.rst
 	contrib.rst
 	events.rst
