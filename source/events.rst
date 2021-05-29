@@ -11,7 +11,7 @@ Community News and Events
 
 Our first ever publicly open rolling workshop is launching soon!
 
-Our Next Open Space Rolling Workshop (29-May-2021, 09:00 SGT)
+Our Next Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)
 -------------------------------------------------------------
 
 |
@@ -22,16 +22,10 @@ Our Next Open Space Rolling Workshop (29-May-2021, 09:00 SGT)
    =============  ==================  =============  =====================================================================================
    Time           Speaker             Org            Topic
    =============  ==================  =============  =====================================================================================
-   09:00 - 09:05  Samuel Low          DSO NL         A Community Introduction: The Open Space Singapore Framework
-   09:05 - 09:10  Sarthak Srivastava  NTU SARC       A Community Introduction: The Objectives and Plans of Action
-   09:10 - 09:25  Prof Amal Chandran  NTU SARC       INSPIRing the Next Space Generation: Creating an International Academic Space Program
-   09:25 - 09:40  Akshay Gulati       INF ORBITS     Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
-   09:40 - 09:45                                      
-   09:45 - 10:00  Samuel Ong          CMU            An Introduction to Planetary Micro-Rovers
-   10:00 - 10:15  Lam Tze King        ALIENA         Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
-   10:15 - 10:25  Samuel Low          DSO NL         A Short Tutorial on Contributing to Open Space SG with Git
-   10:25 - 10:30                                      
-   10:30 Onwards  Everyone!                          Zoom room to re-open for feedback, discussions, Q&A.
+   20:00 - 20:15  Available           Available      Available                                                 
+   20:15 - 20:30  Available           Available      Available                                                 
+   20:30 - 20:45  Available           Available      Available                                                 
+   20:45 - 21:00  Available           Available      Available                                                 
    =============  ==================  =============  =====================================================================================
 
 |
