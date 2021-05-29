@@ -43,7 +43,7 @@ Our community is a community of professionals, rather than a professional commun
 
 |
 
-Before joining us, do also read our guide for contributing in the :ref:`contrib-label` section, and familiarise yourself with our :ref:`conduct-label`.
+Before joining us, do familiarise yourself with our :ref:`conduct-label`. If you're interested in contributing, head over to our guide in the :ref:`contrib-label` section.
 
 Please do check out our other site links for more information.
 
