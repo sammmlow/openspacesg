@@ -28,8 +28,10 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 |
 
 .. raw:: html
-    
-    <img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px" alt="centered image"/>
+	
+	<p align="center">
+		<img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px">
+	</p>
 
 |
 
