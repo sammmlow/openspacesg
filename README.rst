@@ -27,25 +27,21 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 
 |
 
-.. image:: https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png
-	:align: center
-	:width: 400
+.. raw:: html
+
+    <center>
+		<img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px">
+	</center>
 
 |
 
 We work towards our goals first and foremost by making sure we love our tradecraft and have fun doing it! We also organise monthly rolling workshops, forums, and other activities where we discuss about developments in both space science and technology.
 
-Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. If you would love to make a difference to the community, join our community and be a contributor!
-
-.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: JOIN US!
-	:classes: btn-success btn-block font-weight-bold
+Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. If you would love to make a difference to the community, `join our community <https://forms.office.com/r/jYxk1QAHPH>`_ and be a contributor!
 
 |
 
-Before joining us, do familiarise yourself with our :ref:`conduct-label`. If you're interested in contributing, head over to our guide in the :ref:`contrib-label` section.
-
-Please do check out our other site links for more information.
+Please do check out our main website for more information.
 
 Contributing Guidelines
 -----------------------
