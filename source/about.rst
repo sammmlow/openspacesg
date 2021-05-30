@@ -25,7 +25,7 @@ Our Community Members
     Sam Low (Administrator)
     ^^^^^^^^^^^^^^^^^^^^^^^
     
-    Research Scientist at DSO. MS Candidate at Stanford University. Research on GNC algorithms for distributed satellite systems and formation flying. Runs on coffee.
+    Research Scientist at DSO. MS Candidate at Stanford University. Research on GNC algorithms for distributed satellite systems and formation flying. Analog and digital artist.
     
     :badge:`sammmlow@gmail.com,badge-info`
     
