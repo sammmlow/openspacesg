@@ -1,7 +1,7 @@
 .. image:: https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_banner_head.png
 
 .. |website| image:: https://img.shields.io/badge/website-active-brightgreen.svg?style=flat-square
-   :target: https://github.com/sammmlow/OSPACESG
+   :target: https://openspacesg.com
 
 .. |license| image:: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
    :target: https://github.com/sammmlow/OSPACESG/blob/master/LICENSE
@@ -28,10 +28,8 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 |
 
 .. raw:: html
-
-    <center>
-		<img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px">
-	</center>
+    
+    <img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px" align="middle">
 
 |
 
@@ -39,19 +37,21 @@ We work towards our goals first and foremost by making sure we love our tradecra
 
 Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. If you would love to make a difference to the community, `join our community <https://forms.office.com/r/jYxk1QAHPH>`_ and be a contributor!
 
-|
-
 Please do check out our main website for more information.
+
+|
 
 Contributing Guidelines
 -----------------------
 
 In a nutshell, the idea of this community web page is to democratise the publishing of web content by everyone in the community. To do so, make sure you have **Python 3** with **Sphinx** and the **Sphinx-Panels** extension installed (using conda or pip). For full details, follow this `contributing guide <https://openspacesg.com/contrib.html>`_.
 
+|
+
 Contact
 -------
 
-If you have any queries feel free to reach out to our community at
+If you have any queries feel free to reach out to our community at:
 
 openspacesg@outlook.com
 
