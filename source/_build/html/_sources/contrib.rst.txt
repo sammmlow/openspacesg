@@ -230,7 +230,7 @@ Other Customisable Contents
 
 In this section, we'll briefly touch on some of the more customisable features that you can play around with.
 
-**Web Templating**: If you are familiar with HTML, CSS or JavaScript, the underlying web template is built in the `OPENSPACESG\source\_templates` directory, in a file called `layout.html`. In this file, you can toy around with the web layout like links, relation bars, side bars, columns, titles and headers et cetera. We will not go into details on that here.
+**Web Templating**: If you are familiar with HTML, CSS or JavaScript, the underlying web template is built in the **OSPACESG/source/_templates** directory, in a file called `layout.html`. In this file, you can toy around with the web layout like links, relation bars, side bars, columns, titles and headers et cetera. We will not go into details on that here.
 
 **Sphinx Templating**: If you'd like to experiment with some of the other features on Sphinx, do this in the `conf.py` file in `source`.
 
