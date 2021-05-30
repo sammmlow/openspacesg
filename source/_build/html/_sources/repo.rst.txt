@@ -30,7 +30,7 @@ Community Workshop (29 May 2021)
 	**By: Samuel Low and Sarthak Srivastava**
 	
 	.. link-button:: https://1drv.ms/b/s!AssV7HOfrQsbdR5EEtbm5yQybJg
-		:text: Link to Paper
+		:text: Link to Material!
 		:classes: btn-success
 
 
@@ -49,8 +49,8 @@ Community Workshop (29 May 2021)
 	
 	**By: Akshay Gulati, Infinite Orbits**
 	
-	.. link-button:: https://example.com
-		:text: No Link Available!
+	.. link-button:: https://1drv.ms/b/s!AssV7HOfrQsbdr-a8lG3PCERu0A
+		:text: Link to Material!
 		:classes: btn-success
 
 
