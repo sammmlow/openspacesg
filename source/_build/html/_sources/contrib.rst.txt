@@ -89,7 +89,7 @@ See how easy it is? The ReST framework allows anyone, even students or professio
 
 In the next steps, we will guide you through the installation of Python Sphinx and getting Git on your workstation if you don't have it already. Then, you'll have to clone the repository. If you already have or know how to do both, skip to the actual web content tutorial here.
 
-.. link-button:: https://github.com/sammmlow/OPENSPACESG
+.. link-button:: https://github.com/sammmlow/OSPACESG
 	:text: LINK TO THE OPEN SPACE SINGAPORE WEBPAGE GITHUB
 	:classes: btn-success btn-block
 
@@ -133,7 +133,7 @@ Next, we're going to share about how the website is built in general. First, we 
 
 Once you have Git, navigate to the directory that you want (for example, your `Desktop` using the `cd` commands), and clone a local copy of the Open Space Singapore community website by running in terminal or Git Bash:::
 
-	git clone https://github.com/sammmlow/OPENSPACESG.git
+	git clone https://github.com/sammmlow/OSPACESG.git
 
 Now, enter the `OPENSPACESG` folder you just cloned, and list the files (`ls` for Linux or in Git Bash, or `dir` for Windows) and you'll see the source code files:::
 
@@ -160,7 +160,7 @@ When the build is satisfactory, it goes into the `docs` folder, and you can push
 
 Here's the GitHub repository link again.
 
-.. link-button:: https://github.com/sammmlow/OPENSPACESG
+.. link-button:: https://github.com/sammmlow/OSPACESG
 	:text: LINK TO THE OPEN SPACE SINGAPORE WEBPAGE GITHUB
 	:classes: btn-success btn-block
 
@@ -168,11 +168,11 @@ Now, let's re-write all of that, but in very specific steps this time.
 
 1. Clone the GitHub repository:::
 
-	git clone https://github.com/sammmlow/OPENSPACESG.git
+	git clone https://github.com/sammmlow/OSPACESG.git
 
 2. Enter the source folder to edit the ReST files:::
 
-	cd <repo_directory>/OPENSPACESG/source
+	cd <repo_directory>/OSPACESG/source
 
 3. Check the contents by listing files (`ls` for Linux, or `dir` for Windows)::
 
@@ -197,7 +197,7 @@ Now, let's re-write all of that, but in very specific steps this time.
 
 6. You can now observe fresh changes to your web content **locally** at `index.html` by going to:
 
-	cd <repo_directory>/OPENSPACESG/source/_build/html
+	cd <repo_directory>/OSPACESG/source/_build/html
 
 7. GitHub Pages recognises the name `index.html` as the primary home page. However, it recognises this only in the `docs` directory. Thus, once you are ready to finalise your web content, run this batch file in the `source` folder:::
 
@@ -205,7 +205,7 @@ Now, let's re-write all of that, but in very specific steps this time.
 
 8. What this does is it copies over your final build into the `docs` folder, so that GitHub Pages can view it. The ReST files will not be copied over, only the final HTML builds. Fire up `index.html` in the directory:::
 
-	cd <repo_directory>/OPENSPACESG/docs
+	cd <repo_directory>/OSPACESG/docs
 
 9. Once again, check that your changes to the web content is satisfactory, and you can push it to GitHub.
 
