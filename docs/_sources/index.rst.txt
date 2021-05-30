@@ -11,7 +11,7 @@ Welcome to the Open Space Singapore Community!
 
 The Open Space Singapore Community is a technical body of young professionals and students with a passion for the research and development of space science and engineering.
 
-Our mission is to synergise the local aerospace community, create an avenue to channel our professional service back to the community, and give our younger talents a runway for learning and career development. We envision a cohesive aerospace community where we celebrate open discourse and promote a free exchange of ideas and resources for the greater good and for the development of our community members.
+Our mission is to synergise the local aerospace community, create an avenue to channel our professional service back to the community, and give our younger talents a runway for learning and career development. We envision a cohesive aerospace community where we celebrate open discourse and promote mindshare for the greater good and for the development of our community members.
 
 |
 
