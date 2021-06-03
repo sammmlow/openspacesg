@@ -6,6 +6,8 @@
 
 .. image:: /_static/_headers/openssg_head_repo.png
 
+.. _repo-label:
+
 Community Repository and Archives
 =================================
 

@@ -11,7 +11,7 @@
 Community Code of Conduct
 =========================
 
-Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning and good-spirited community, a properly established code of conduct would be helpful to guide the community in its ethical and professional conduct.
+Everyone, from students to young academics and engineers, are extremely welcome to participate and contribute! Of course, as with any well-meaning, good-spirited, and light-hearted community, a properly established code of conduct would be helpful to guide the community in its ethical and professional conduct.
 
 It is therefore agreed upon by members of the Open Space Singapore (OSSG) Community, that the following code of conduct, also open-sourced and written by said members of the community, will be adhered to as ethically and as professionally as possible, in all manner of participation and contribution. It is also agreed upon that the following codes of conduct are general guidelines for the community, and not to be interpreted or represented as a formal article of the law, a legal statute, or a part of the constitution of Singapore.
 
@@ -34,16 +34,16 @@ Falsification of information for the purposes of manipulation, misinformation, o
 
 .. _conduct-authors-label:
 
-Code of Conduct for Authors
----------------------------
+Code of Conduct for Speakers
+----------------------------
 
-First, authors are strongly encouraged to submit abstracts about their current research projects through the sign-up form, and share development updates on their exciting space projects only where disclosable. For research-focused items, authors should ensure that the research holds technically accurate content and that the delivery is clear, comprehensible and concise. 
+First, speakers are strongly encouraged to submit abstracts about their current research projects through the sign-up form, and share development updates on their exciting space projects only where disclosable. For research-focused items, speakers should ensure that the research holds technically accurate content and that the delivery is clear, comprehensible and concise. 
 
-Second, authors must ensure that the work is free of plagiarism. Authors must not pass off the work or ideas of other authors as their own. If presenting the ideas of others, it should be presented as a literature review or structured in a narrative that leads to the author's original objective of the topic being discussed. Plagiarism is an unacceptable behaviour in any research community, and could lead to severe legal and ethical consequences. Authors must also not give false credit or mis-attributions to another contributor, with the intent of deliberate dishonesty or deceit.
+Second, speakers must ensure that the work is free of plagiarism. Speakers must not pass off the work or ideas of other speakers as their own. If presenting the ideas of others, it should be presented as a literature review or structured in a narrative that leads to the speaker's original objective of the topic being discussed. Plagiarism is an unacceptable behaviour in any research community, and could lead to severe legal and ethical consequences. Speakers must also not give false credit or mis-attributions to another contributor, with the intent of deliberate dishonesty or deceit.
 
-Third, it is the responsibility of the author to ensure that any sharing of research material online with the OSSG community does not infringe on any existing copyrights or intellectual property agreements. If the author has work published in a non-open-access journal, or if the funding source or organization supporting the author's research work has deemed the research to be highly sensitive and non-disclosable, then it is on the onus of the author to ensure that copyright infringements are not committed.
+Third, it is the responsibility of the speaker to ensure that any sharing of research material online with the OSSG community does not infringe on any existing copyrights or intellectual property agreements. If the speaker has work published in a non-open-access journal, or if the funding source or organization supporting the speaker's research work has deemed the research to be highly sensitive and non-disclosable, then it is on the onus of the speaker to ensure that copyright infringements are not committed.
 
-Finally, authors are encouraged to openly welcome all honest feedback from the reviewing panel, and to maintain mutual respect and decency, for all intents and purposes, while discussing with their reviewers on how their research item can be improved.
+Finally, speakers, preseters and authors are all encouraged to openly welcome all honest feedback from the reviewing panel, and to maintain mutual respect and decency, for all intents and purposes, while discussing with their reviewers on how their research item can be improved.
 
 |
 
@@ -52,7 +52,7 @@ Finally, authors are encouraged to openly welcome all honest feedback from the r
 Code of Conduct for Reviewers
 -----------------------------
 
-First, reviewers are advised to give open, honest, and non-biased constructive feedback to authors. Should a reviewer feel unqualified in reviewing a particular domain, he/she should voice out for an alternative reviewer to take his/her place for the betterment of the review process.
+First, reviewers are advised to give open, honest, and non-biased constructive feedback to speakers, presenters and authors. Should a reviewer feel unqualified in reviewing a particular domain, he/she should voice out for an alternative reviewer to take his/her place for the betterment of the review process.
 
 Second, given the small size of our space community, reviewers should be mindful of not allowing their connections with the author, whether personal or professional, to bias their judgements of the author's presentation. 
 

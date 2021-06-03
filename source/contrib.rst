@@ -11,17 +11,34 @@
 Contributing to Open Space Singapore
 ====================================
 
-The Open Space Singapore project is purely community-driven research interest group, and as such, this project is open-sourced and thus contributable in all ways imaginable.
+The Open Space Singapore project is purely community-driven research and development interest group, and as such, this project is open-sourced and thus contributable by everyone with a relevant background.
 
 Contributing Roles and Responsibilities
 ---------------------------------------
 
-* **Participants:** Just join and be there for our activities!
-* **Presenters:** Share your research in our rolling workshops!
-* **Editors:** Write our quarterly newsletters and web content!
-* **Administrators:** Organise meaningful activities for the community!
+* **Participants:** Just join and be there for our activities.
+* **Speakers:** Share your talks with us in our rolling workshops.
+* **Editorial:** Write our quarterly newsletters and web content.
+* **Peer Reviewers:** Provide guidance on research for the community.
+* **Administrators:** Organise meaningful activities for the community.
 
-You can join the community simply by subscribing to our mailing list in the home page! However, before you do, the OSSG community urges you to peruse our :ref:`conduct-label`. Next, for the rest of this tutorial, we are going to teach you how to contribute your own community content.
+You can join the community simply by subscribing to our mailing list in the home page! However, before you do, the OSSG community urges you to peruse our :ref:`conduct-label`.
+
+For meaningful contributions from would-be speakers, editors, and especially administrators, we would advise that content shared be scoped within the developments within our local community and not on an external and international setting (as there is already a lot of coverage on space news globally).
+
+For peer reviewers, many of our community members are budding researchers and would definitely appreciate any advice from you. We recommend that you have some (successful) experience in publishing in an international scientific journal, or have at least provided academic tutelage or peer review in other capacities one way or another.
+
+If you are interested to take on more hats in our community initiatives, let us know below!
+
+|
+
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+	:text: JOIN US!
+	:classes: btn-success btn-block font-weight-bold
+
+|
+
+Next, for the rest of this tutorial, we are going to teach you how to contribute your own community content. For administrators and editors who already have Python Sphinx installed, skip to the actual web content tutorial here at :ref:`contrib-addcontents-label`.
 
 Introduction to Contributing Community Web Content
 --------------------------------------------------
@@ -87,7 +104,7 @@ Here's an example to show you just how easy it is! Let's say you're organising s
 
 See how easy it is? The ReST framework allows anyone, even students or professionals from non-technical backgrounds, to contribute (moderated) community content.
 
-In the next steps, we will guide you through the installation of Python Sphinx and getting Git on your workstation if you don't have it already. Then, you'll have to clone the repository. If you already have or know how to do both, skip to the actual web content tutorial here.
+In the next steps, we will guide you through the installation of Python Sphinx and getting Git on your workstation if you don't have it already. Then, you'll have to clone the repository. If you already have or know how to do both, skip to the actual web content tutorial here at :ref:`contrib-addcontents-label`.
 
 .. link-button:: https://github.com/sammmlow/OSPACESG
 	:text: LINK TO THE OPEN SPACE SINGAPORE WEBPAGE GITHUB
@@ -143,6 +160,8 @@ Now, enter the `OPENSPACESG` folder you just cloned, and list the files (`ls` fo
 	README.md
 
 If you see them, then congratulations, you've successfully got a local copy of the web on your work station! Now, let's look at how we can add web content.
+
+.. _contrib-addcontents-label:
 
 Adding Your Own Web Content
 ---------------------------
@@ -228,11 +247,9 @@ Finally, once again, click this link if you need a `reference for reStructuredTe
 Other Customisable Contents
 ---------------------------
 
-In this section, we'll briefly touch on some of the more customisable features that you can play around with.
-
 **Web Templating**: If you are familiar with HTML, CSS or JavaScript, the underlying web template is built in the **OSPACESG/source/_templates** directory, in a file called `layout.html`. In this file, you can toy around with the web layout like links, relation bars, side bars, columns, titles and headers et cetera. We will not go into details on that here.
 
-**Sphinx Templating**: If you'd like to experiment with some of the other features on Sphinx, do this in the `conf.py` file in `source`.
+**Sphinx Templating**: For other customisable features on Sphinx, explore the `conf.py` file in `source`.
 
 .. toctree::
    :maxdepth: 1
