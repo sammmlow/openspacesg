@@ -34,7 +34,7 @@ While there are available slots in the presentation line-up, please feel free to
 
 .. link-button:: https://forms.office.com/r/3aa9TtnK57
 	:text: Submit an Abstract to Our Next Rolling Workshop
-	:classes: btn-success btn-block
+	:classes: btn-info btn-block
 
 |
 
@@ -45,19 +45,22 @@ Previous Open Space Rolling Workshops
 
 |
 
+**Open Space Rolling Workshop (29-May-2021, 09:00 SGT)**
+
 .. table:: 
-   :widths: 15 20 15 50
+   :widths: 18 24 18 40
    
-   =============  ==================  ===============  ===================
+   =============  ==================  ===============  =====================================================================================
    Time           Speaker             Org              Topic
-   =============  ==================  ===============  ===================
-   09:00 - 09:10  Samuel & Sarthak    DSO & NTU        *Available*
-   09:10 - 09:25  Prof Amal Chandran  NTU SARC       
-   09:25 - 09:40  Akshay Gulati       INFINITE ORBITS
-   09:40 - 09:45                                       *Break*
-   09:45 - 10:00  Samuel Ong          CARNEGIE MELLON
-   10:00 - 10:15  Lam Tze King        ALIENA
-   =============  ==================  ===============  ===================
+   =============  ==================  ===============  =====================================================================================
+   09:00 - 09:10  Samuel & Sarthak    DSO & NTU        An Introduction: The Open Space Singapore Community Initiative
+   09:10 - 09:25  Prof Amal Chandran  NTU SARC         INSPIRing the Next Space Generation: Creating an International Academic Space Program
+   09:25 - 09:40  Akshay Gulati       INFINITE ORBITS  Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
+   09:40 - 09:45                                        
+   09:45 - 10:00  Samuel Ong          CARNEGIE MELLON  An Introduction to Planetary Micro-Rovers at Carnegie Mellon University
+   10:00 - 10:15  Lam Tze King        ALIENA           Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
+   09:40 - 09:45                                        
+   =============  ==================  ===============  =====================================================================================
 
 |
 

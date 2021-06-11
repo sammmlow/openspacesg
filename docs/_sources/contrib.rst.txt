@@ -30,11 +30,9 @@ For peer reviewers, many of our community members are budding researchers and wo
 
 If you are interested to take on more hats in our community initiatives, let us know below!
 
-|
-
 .. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: JOIN US!
-	:classes: btn-success btn-block font-weight-bold
+	:text: Open Link to Join The Community!
+	:classes: btn-info btn-block font-weight-bold
 
 |
 
