@@ -9,7 +9,19 @@
 About Our Community
 ===================
 
-The diversity and expertise of our people are the pillars for this community. With their spirit of innovation and collaboration, the community can foster much stronger bonds, exchange big ideas freely, and promote a more vibrant space community in Singapore. This page is a dedicated directory of our community and contacts.
+Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. The diversity and expertise of our people are the pillars for this community. With their spirit of innovation and collaboration, the community can foster much stronger bonds, exchange big ideas freely, and promote a more vibrant space community in Singapore. This page is a dedicated directory of our community, links to join the community, and our contacts.
+
+Click the link below to join our community and be a contributor!
+
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+	:text: JOIN US!
+	:classes: btn-success btn-block font-weight-bold
+
+Click the link below to join us in our Discord server!
+
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+	:text: JOIN US!
+	:classes: btn-success btn-block font-weight-bold
 
 Our Community Members
 ---------------------
@@ -25,7 +37,7 @@ Our Community Members
     Sam Low (Administrator)
     ^^^^^^^^^^^^^^^^^^^^^^^
     
-    Research Scientist at DSO. MS Candidate at Stanford University. Research on GNC algorithms for distributed satellite systems and formation flying. Analog and digital artist.
+    Research Scientist at DSO, with interests in guidance, navigation, control and dynamics simulations for distributed satellite systems. Drinks too much coffee.
     
     :badge:`sammmlow@gmail.com,badge-info`
     
@@ -108,18 +120,19 @@ Our Community Members
     *Biography*
     
     :badge:`Contact,badge-info`
-    
+
+
+
 Our Community Contact
 ---------------------
 
-.. panels::
-	:container: container-fluid pb-1
-	:column: col-lg-12 col-md-12 col-sm-12 col-xs-12 p-2
-	:card: shadow text-center
-	:header: border-0
-	:footer: border-0
-	
-	openspacesg@outlook.com
+openspacesg@outlook.com
+
+To unsubscribe from the community, please click on the link below!
+
+.. link-button:: https://forms.office.com/r/ALd2FPtpeq
+	:text: UNSUBSCRIBE
+	:classes: btn-success btn-block font-weight-bold
 
 .. toctree::
    :maxdepth: 1

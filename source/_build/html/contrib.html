@@ -4,14 +4,15 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Contributing to Open Space Singapore &#8212; Open Space Singapore</title>
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinxdoc.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
-    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
@@ -33,7 +34,7 @@
 	<div style="background-color: #739AA1; text-align: center; padding: 10px 10px 15px 15px"></div>
 	<div style="background-color: #E1EAEB; text-align: center; padding: 10px 10px 15px 15px">
 		<strong><a href="index.html">HOME</a>&nbsp;|&nbsp;</strong>
-		<strong><a href="about.html">ABOUT US</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="about.html">OUR COMMUNITY</a>&nbsp;|&nbsp;</strong>
 		<strong><a href="events.html">NEWS AND EVENTS</a>&nbsp;|&nbsp;</strong>
 		<strong><a href="repo.html">REPOSITORY</a>&nbsp;|&nbsp;</strong>
 		<strong><a href="#">CONTRIBUTING</a>&nbsp;|&nbsp;</strong>
@@ -48,10 +49,10 @@
           <div class="body" role="main">
             
   <img alt="_images/openssg_head_contrib.png" src="_images/openssg_head_contrib.png" />
-<div class="section" id="contributing-to-open-space-singapore">
+<section id="contributing-to-open-space-singapore">
 <span id="contrib-label"></span><h1>Contributing to Open Space Singapore<a class="headerlink" href="#contributing-to-open-space-singapore" title="Permalink to this headline">¶</a></h1>
 <p>The Open Space Singapore project is purely community-driven research and development interest group, and as such, this project is open-sourced and thus contributable by everyone with a relevant background.</p>
-<div class="section" id="contributing-roles-and-responsibilities">
+<section id="contributing-roles-and-responsibilities">
 <h2>Contributing Roles and Responsibilities<a class="headerlink" href="#contributing-roles-and-responsibilities" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p><strong>Participants:</strong> Just join and be there for our activities.</p></li>
@@ -72,8 +73,8 @@
 <div class="line"><br /></div>
 </div>
 <p>Next, for the rest of this tutorial, we are going to teach you how to contribute your own community content. For administrators and editors who already have Python Sphinx installed, skip to the actual web content tutorial here at <a class="reference internal" href="#contrib-addcontents-label"><span class="std std-ref">Adding Your Own Web Content</span></a>.</p>
-</div>
-<div class="section" id="introduction-to-contributing-community-web-content">
+</section>
+<section id="introduction-to-contributing-community-web-content">
 <h2>Introduction to Contributing Community Web Content<a class="headerlink" href="#introduction-to-contributing-community-web-content" title="Permalink to this headline">¶</a></h2>
 <p>This section is relevant to community <strong>administrators</strong> and <strong>editors</strong> who wish to understand how to actually get web content up on this website. In a nutshell, the Open Space Singapore community webpage is:</p>
 <ul class="simple">
@@ -134,8 +135,8 @@
 <p>See how easy it is? The ReST framework allows anyone, even students or professionals from non-technical backgrounds, to contribute (moderated) community content.</p>
 <p>In the next steps, we will guide you through the installation of Python Sphinx and getting Git on your workstation if you don’t have it already. Then, you’ll have to clone the repository. If you already have or know how to do both, skip to the actual web content tutorial here at <a class="reference internal" href="#contrib-addcontents-label"><span class="std std-ref">Adding Your Own Web Content</span></a>.</p>
 <p><a class="sphinx-bs btn text-wrap btn-success btn-block reference external" href="https://github.com/sammmlow/OSPACESG"><span>LINK TO THE OPEN SPACE SINGAPORE WEBPAGE GITHUB</span></a></p>
-</div>
-<div class="section" id="installing-python-and-sphinx">
+</section>
+<section id="installing-python-and-sphinx">
 <span id="contrib-python"></span><h2>Installing Python and Sphinx<a class="headerlink" href="#installing-python-and-sphinx" title="Permalink to this headline">¶</a></h2>
 <p>To begin working on adding web content, you need to have Python installed. We suggest either using Python through <a class="reference external" href="https://www.anaconda.com/products/individual">Anaconda</a> which comes with the Spyder IDE, the Conda environment, and a pretty neat package manager, or you can try others like the <a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm IDE</a> too.</p>
 <p>Make sure you have Python installed. If you’re using Anaconda, open up your Anaconda Prompt (so you know you’re in your Conda environment). Else, if you’ve Python installed in a separate environment, flip up your terminal and crunch::</p>
@@ -147,7 +148,7 @@
 </pre></div>
 </div>
 <p>You should see your <cite>pip</cite> version pop out like this for Anaconda users::</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="mf">20.2</span><span class="o">.</span><span class="mi">4</span> <span class="kn">from</span> <span class="nn">C</span><span class="p">:</span>\<span class="n">Users</span>\<span class="n">sammm</span>\<span class="n">anaconda3</span>\<span class="n">lib</span>\<span class="n">site</span><span class="o">-</span><span class="n">packages</span>\<span class="n">pip</span> <span class="p">(</span><span class="n">python</span> <span class="mf">3.8</span><span class="p">)</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="mf">20.2.4</span> <span class="kn">from</span> <span class="nn">C</span><span class="p">:</span>\<span class="n">Users</span>\<span class="n">sammm</span>\<span class="n">anaconda3</span>\<span class="n">lib</span>\<span class="n">site</span><span class="o">-</span><span class="n">packages</span>\<span class="n">pip</span> <span class="p">(</span><span class="n">python</span> <span class="mf">3.8</span><span class="p">)</span>
 </pre></div>
 </div>
 <p>Now, run the following command (which should work regardless of whether you’re a Linux, Mac or Windows user)::</p>
@@ -162,15 +163,15 @@
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="n">sphinx</span><span class="o">-</span><span class="n">panels</span>
 </pre></div>
 </div>
-</div>
-<div class="section" id="installing-git-and-cloning">
+</section>
+<section id="installing-git-and-cloning">
 <span id="contrib-git"></span><h2>Installing Git and Cloning<a class="headerlink" href="#installing-git-and-cloning" title="Permalink to this headline">¶</a></h2>
-<p>Next, we’re going to share about how the website is built in general. First, we are going to assume you already have git installed, and that you can run git commands in your terminal. If you can’t, especially for Windows users, I suggest getting <a class="reference external" href="https://git-scm.com/downloads">Git Bash</a>.</p>
+<p>Next, we’re going to share about how the website is built in general. First, we are going to assume you already have git installed, and that you can run git commands in your terminal. If you can’t, especially for Windows users, I suggest getting <a class="reference external" href="https://git-scm.com/downloads">Git Bash</a>. Alternatively you could also use <a class="reference external" href="https://desktop.github.com/">GitHub Desktop</a>, if you prefer less typing in the terminal.</p>
 <p>Once you have Git, navigate to the directory that you want (for example, your <cite>Desktop</cite> using the <cite>cd</cite> commands), and clone a local copy of the Open Space Singapore community website by running in terminal or Git Bash::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">sammmlow</span><span class="o">/</span><span class="n">OSPACESG</span><span class="o">.</span><span class="n">git</span>
 </pre></div>
 </div>
-<p>Now, enter the <cite>OPENSPACESG</cite> folder you just cloned, and list the files (<cite>ls</cite> for Linux or in Git Bash, or <cite>dir</cite> for Windows) and you’ll see the source code files::</p>
+<p>Now, enter the <cite>OSPACESG</cite> folder you just cloned, and list the files (<cite>ls</cite> for Linux or in Git Bash, or <cite>dir</cite> for Windows) and you’ll see the source code files::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docs</span><span class="o">/</span>
 <span class="n">source</span><span class="o">/</span>
 <span class="n">LICENSE</span>
@@ -178,8 +179,8 @@
 </pre></div>
 </div>
 <p>If you see them, then congratulations, you’ve successfully got a local copy of the web on your work station! Now, let’s look at how we can add web content.</p>
-</div>
-<div class="section" id="adding-your-own-web-content">
+</section>
+<section id="adding-your-own-web-content">
 <span id="contrib-addcontents-label"></span><h2>Adding Your Own Web Content<a class="headerlink" href="#adding-your-own-web-content" title="Permalink to this headline">¶</a></h2>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -194,12 +195,17 @@
 <p><a class="sphinx-bs btn text-wrap btn-success btn-block reference external" href="https://github.com/sammmlow/OSPACESG"><span>LINK TO THE OPEN SPACE SINGAPORE WEBPAGE GITHUB</span></a></p>
 <p>Now, let’s re-write all of that, but in very specific steps this time.</p>
 <ol class="arabic">
-<li><p>Clone the GitHub repository::</p>
+<li><p>If you do not have the Open Space Singapore web page on your computer, start by cloning the GitHub repository using your GitHub Desktop, or the clone command below using Git Bash::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">sammmlow</span><span class="o">/</span><span class="n">OSPACESG</span><span class="o">.</span><span class="n">git</span>
 </pre></div>
 </div>
 </li>
-<li><p>Enter the source folder to edit the ReST files::</p>
+<li><p>Else, if you do have it, you should do a pull from the origin in order to keep your local repository up to date before adding any new content::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">pull</span> <span class="n">origin</span> <span class="n">main</span>
+</pre></div>
+</div>
+</li>
+<li><p>There would be two main folders in the root OSPACESG directory. First, <cite>docs</cite> is where your final web content is positioned and is the folder which the Open Space Singapore GitHub Page will interface with. Second, <cite>source</cite> is where you do all your webt content editting, and it serves as a staging area for you to add your content before you publish it locally to <cite>docs</cite>, and then to GitHub. Now, let’s enter the source folder to edit the ReST files::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">&lt;</span><span class="n">repo_directory</span><span class="o">&gt;/</span><span class="n">OSPACESG</span><span class="o">/</span><span class="n">source</span>
 </pre></div>
 </div>
@@ -220,23 +226,23 @@
 </pre></div>
 </div>
 </li>
-<li><p>Fire up your text editor, add content to the ReST files; save your work.</p></li>
-<li><p>Once you’ve done with your edits, run this in the <cite>source</cite> folder::</p>
+<li><p>Fire up your text editor, add content to and save the RST files of your choice.</p></li>
+<li><p>To build the website in the local source folder, in your command prompt (or in your Anaconda Prompt if you are an Anaconda user) run this in the <cite>source</cite> folder::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span> <span class="n">html</span>
 </pre></div>
 </div>
 </li>
-<li><p>You can now observe fresh changes to your web content <strong>locally</strong> at <cite>index.html</cite> by going to:</p>
+<li><p>You can now observe fresh changes to your web content <strong>locally only</strong> at <cite>index.html</cite> by going to:</p>
 <blockquote>
 <div><p>cd &lt;repo_directory&gt;/OSPACESG/source/_build/html</p>
 </div></blockquote>
 </li>
-<li><p>GitHub Pages recognises the name <cite>index.html</cite> as the primary home page. However, it recognises this only in the <cite>docs</cite> directory. Thus, once you are ready to finalise your web content, run this batch file in the <cite>source</cite> folder::</p>
+<li><p>GitHub Pages recognises the name <cite>index.html</cite> as the primary home page, but only in the <cite>docs</cite> directory and not <cite>source</cite>. What you had done in Step 6 was to build the website locally in the <cite>source</cite> folder, and therefore even if this was pushed to GitHub, the changes would not be reflected in the public web page. Thus, once you are ready to finalise your web content, in your command prompt (or in your Anaconda Prompt if you are an Anaconda user), run this batch file in the <cite>source</cite> folder::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span> <span class="n">github</span>
 </pre></div>
 </div>
 </li>
-<li><p>What this does is it copies over your final build into the <cite>docs</cite> folder, so that GitHub Pages can view it. The ReST files will not be copied over, only the final HTML builds. Fire up <cite>index.html</cite> in the directory::</p>
+<li><p>What <cite>make github</cite> does is: it copies over your final build into the <cite>docs</cite> folder, so that GitHub Pages can view it <strong>once you push your local repository upstream to the origin</strong>. The ReST files will not be copied over, only the final HTML builds. Fire up <cite>index.html</cite> in the directory::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">&lt;</span><span class="n">repo_directory</span><span class="o">&gt;/</span><span class="n">OSPACESG</span><span class="o">/</span><span class="n">docs</span>
 </pre></div>
 </div>
@@ -261,15 +267,15 @@
 <p class="admonition-title">Note</p>
 <p>Do not delete or rename the CNAME file in the <cite>docs</cite> directory as the file is needed to point to the correct DNS of the website. Doing that will take our entire community website offline!</p>
 </div>
-</div>
-<div class="section" id="other-customisable-contents">
+</section>
+<section id="other-customisable-contents">
 <h2>Other Customisable Contents<a class="headerlink" href="#other-customisable-contents" title="Permalink to this headline">¶</a></h2>
 <p><strong>Web Templating</strong>: If you are familiar with HTML, CSS or JavaScript, the underlying web template is built in the <strong>OSPACESG/source/_templates</strong> directory, in a file called <cite>layout.html</cite>. In this file, you can toy around with the web layout like links, relation bars, side bars, columns, titles and headers et cetera. We will not go into details on that here.</p>
 <p><strong>Sphinx Templating</strong>: For other customisable features on Sphinx, explore the <cite>conf.py</cite> file in <cite>source</cite>.</p>
 <div class="toctree-wrapper compound">
 </div>
-</div>
-</div>
+</section>
+</section>
 
 
             <div class="clearer"></div>
@@ -336,7 +342,7 @@
     </div>
     <div class="footer" role="contentinfo">
         &#169; Copyright 2021, The Open Space Singapore Community.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.5.4.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.0.1.
     </div>
   </body>
 </html>

@@ -40,7 +40,28 @@ While there are available slots in the presentation line-up, please feel free to
 
 It is advised by the community that you should familiarise yourself with the :ref:`conduct-all-label` and the :ref:`conduct-authors-label`.
 
-For a list of past events, check out our archives on the :ref:`repo-label` page!
+Previous Open Space Rolling Workshops
+-------------------------------------
+
+|
+
+.. table:: 
+   :widths: 15 20 15 50
+   
+   =============  ==================  ===============  ===================
+   Time           Speaker             Org              Topic
+   =============  ==================  ===============  ===================
+   09:00 - 09:10  Samuel & Sarthak    DSO & NTU        *Available*
+   09:10 - 09:25  Prof Amal Chandran  NTU SARC       
+   09:25 - 09:40  Akshay Gulati       INFINITE ORBITS
+   09:40 - 09:45                                       *Break*
+   09:45 - 10:00  Samuel Ong          CARNEGIE MELLON
+   10:00 - 10:15  Lam Tze King        ALIENA
+   =============  ==================  ===============  ===================
+
+|
+
+For a repository of presentation material, do check out our archives on the :ref:`repo-label` page!
 
 .. toctree::
    :maxdepth: 1

@@ -146,13 +146,13 @@ If everything worked fine, you will see the version number for the Sphinx packag
 Installing Git and Cloning
 --------------------------
 
-Next, we're going to share about how the website is built in general. First, we are going to assume you already have git installed, and that you can run git commands in your terminal. If you can't, especially for Windows users, I suggest getting `Git Bash <https://git-scm.com/downloads>`_.
+Next, we're going to share about how the website is built in general. First, we are going to assume you already have git installed, and that you can run git commands in your terminal. If you can't, especially for Windows users, I suggest getting `Git Bash <https://git-scm.com/downloads>`_. Alternatively you could also use `GitHub Desktop <https://desktop.github.com/>`_, if you prefer less typing in the terminal.
 
 Once you have Git, navigate to the directory that you want (for example, your `Desktop` using the `cd` commands), and clone a local copy of the Open Space Singapore community website by running in terminal or Git Bash:::
 
 	git clone https://github.com/sammmlow/OSPACESG.git
 
-Now, enter the `OPENSPACESG` folder you just cloned, and list the files (`ls` for Linux or in Git Bash, or `dir` for Windows) and you'll see the source code files:::
+Now, enter the `OSPACESG` folder you just cloned, and list the files (`ls` for Linux or in Git Bash, or `dir` for Windows) and you'll see the source code files:::
 
 	docs/
 	source/
@@ -185,15 +185,19 @@ Here's the GitHub repository link again.
 
 Now, let's re-write all of that, but in very specific steps this time.
 
-1. Clone the GitHub repository:::
+1. If you do not have the Open Space Singapore web page on your computer, start by cloning the GitHub repository using your GitHub Desktop, or the clone command below using Git Bash:::
 
 	git clone https://github.com/sammmlow/OSPACESG.git
 
-2. Enter the source folder to edit the ReST files:::
+2. Else, if you do have it, you should do a pull from the origin in order to keep your local repository up to date before adding any new content:::
+
+	git pull origin main
+
+3. There would be two main folders in the root OSPACESG directory. First, `docs` is where your final web content is positioned and is the folder which the Open Space Singapore GitHub Page will interface with. Second, `source` is where you do all your webt content editting, and it serves as a staging area for you to add your content before you publish it locally to `docs`, and then to GitHub. Now, let's enter the source folder to edit the ReST files:::
 
 	cd <repo_directory>/OSPACESG/source
 
-3. Check the contents by listing files (`ls` for Linux, or `dir` for Windows)::
+4. Check the contents by listing files (`ls` for Linux, or `dir` for Windows)::
 
 	_build/
 	_templates/
@@ -208,27 +212,27 @@ Now, let's re-write all of that, but in very specific steps this time.
 	make.bat
 	conf.py
 
-4. Fire up your text editor, add content to the ReST files; save your work.
+5. Fire up your text editor, add content to and save the RST files of your choice.
 
-5. Once you've done with your edits, run this in the `source` folder:::
+6. To build the website in the local source folder, in your command prompt (or in your Anaconda Prompt if you are an Anaconda user) run this in the `source` folder:::
 
 	make html
 
-6. You can now observe fresh changes to your web content **locally** at `index.html` by going to:
+7. You can now observe fresh changes to your web content **locally only** at `index.html` by going to:
 
 	cd <repo_directory>/OSPACESG/source/_build/html
 
-7. GitHub Pages recognises the name `index.html` as the primary home page. However, it recognises this only in the `docs` directory. Thus, once you are ready to finalise your web content, run this batch file in the `source` folder:::
+8. GitHub Pages recognises the name `index.html` as the primary home page, but only in the `docs` directory and not `source`. What you had done in Step 6 was to build the website locally in the `source` folder, and therefore even if this was pushed to GitHub, the changes would not be reflected in the public web page. Thus, once you are ready to finalise your web content, in your command prompt (or in your Anaconda Prompt if you are an Anaconda user), run this batch file in the `source` folder:::
 
 	make github
 
-8. What this does is it copies over your final build into the `docs` folder, so that GitHub Pages can view it. The ReST files will not be copied over, only the final HTML builds. Fire up `index.html` in the directory:::
+9. What `make github` does is: it copies over your final build into the `docs` folder, so that GitHub Pages can view it **once you push your local repository upstream to the origin**. The ReST files will not be copied over, only the final HTML builds. Fire up `index.html` in the directory:::
 
 	cd <repo_directory>/OSPACESG/docs
 
-9. Once again, check that your changes to the web content is satisfactory, and you can push it to GitHub.
+10. Once again, check that your changes to the web content is satisfactory, and you can push it to GitHub.
 
-10. Do note that you will need collaborator privileges (which are given to administrators and editors) in order to directly push to the upstream repository. Otherwise, request for admin rights and make a case for it to the admin team, or, make a separate branch for your edits, and then make a pull request and the admins will review your changes.
+11. Do note that you will need collaborator privileges (which are given to administrators and editors) in order to directly push to the upstream repository. Otherwise, request for admin rights and make a case for it to the admin team, or, make a separate branch for your edits, and then make a pull request and the admins will review your changes.
 
 Finally, once again, click this link if you need a `reference for reStructuredText (ReST) <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`_.
 

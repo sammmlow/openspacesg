@@ -9,7 +9,7 @@
 Welcome to the Open Space Singapore Community!
 ==============================================
 
-The Open Space Singapore Community is a technical body of young professionals and students with a passion for the research and development of space science and engineering.
+The Open Space Singapore Community is a technical body of young professionals, hobbyists and students with a passion for the research and development of space science and engineering.
 
 Our mission is to synergise the local aerospace community, create an avenue to channel our professional service back to the community, and give our younger talents a runway for learning and career development. We envision a cohesive aerospace community where we celebrate open discourse and promote mindshare for the greater good and for the development of our community members.
 
@@ -21,19 +21,7 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 
 |
 
-We work towards our goals first and foremost by making sure we love our tradecraft and have fun doing it! We also organise monthly rolling workshops, forums, and other activities where we discuss about developments in both space science and technology.
-
-Our community is a community of professionals, rather than a professional community, and therefore all of our activities are informal, self-funded and volunteer-driven. If you would love to make a difference to the community, join our community and be a contributor!
-
-.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: JOIN US!
-	:classes: btn-success btn-block font-weight-bold
-
-|
-
-Before joining us, do familiarise yourself with our :ref:`conduct-label`. If you're interested in contributing, head over to our guide in the :ref:`contrib-label` section.
-
-Please do check out our other site links for more information.
+We work towards our mission first and foremost by making sure we love our tradecraft, and have fun doing it! We organise monthly rolling workshops, forums, and other activities where we discuss about developments in both space science and technology. Do checkout our site links for more information!
 
 .. toctree::
 	:maxdepth: 1
@@ -43,11 +31,5 @@ Please do check out our other site links for more information.
 	about.rst
 	contrib.rst
 	conduct.rst
-
-To unsubscribe from the community, please click on the link below!
-
-.. link-button:: https://forms.office.com/r/ALd2FPtpeq
-	:text: UNSUBSCRIBE
-	:classes: btn-success btn-block font-weight-bold
 
 |
