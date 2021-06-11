@@ -26,9 +26,9 @@ We work towards our mission first and foremost by making sure we love our tradec
 .. toctree::
 	:maxdepth: 1
 	
+	about.rst
 	events.rst
 	repo.rst
-	about.rst
 	contrib.rst
 	conduct.rst
 

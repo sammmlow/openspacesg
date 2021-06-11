@@ -14,17 +14,22 @@ Our community is a community of professionals, rather than a professional commun
 Click the link below to join our community and be a contributor!
 
 .. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: JOIN US!
-	:classes: btn-success btn-block font-weight-bold
+	:text: Open Link to Join The Community!
+	:classes: btn-info btn-block font-weight-bold
+
+|
 
 Click the link below to join us in our Discord server!
 
-.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: JOIN US!
-	:classes: btn-success btn-block font-weight-bold
+.. link-button:: https://discord.gg/Y9agQejDNs
+	:text: Open Link to the Community Discord!
+	:classes: btn-info btn-block font-weight-bold
+
+|
 
 Our Community Members
 ---------------------
+
 |
 
 .. panels::

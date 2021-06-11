@@ -56,13 +56,13 @@ Community Workshop (29 May 2021)
 		:classes: btn-success
 
 
-.. dropdown:: An Introduction to Planetary Micro-Rovers
+.. dropdown:: An Introduction to Planetary Micro-Rovers at Carnegie Mellon University
 	:animate: fade-in
 	
 	**By: Samuel Ong, Carnegie Mellon University**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_Intro_Planetary_MicroRovers.pdf
-		:text: No Link Available!
+		:text: Link to Material!
 		:classes: btn-success
 
 
@@ -72,7 +72,7 @@ Community Workshop (29 May 2021)
 	**By: Lam Tze King, Aliena Pte Ltd**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_Aliena_LunarTrajectories.pdf
-		:text: No Link Available!
+		:text: Link to Material!
 		:classes: btn-success
 
 
