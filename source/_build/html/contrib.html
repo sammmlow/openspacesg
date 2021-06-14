@@ -229,10 +229,10 @@
 </pre></div>
 </div>
 </li>
-<li><p>You can now observe fresh changes to your web content <strong>locally only</strong> at <cite>index.html</cite> by going to:</p>
-<blockquote>
-<div><p>cd &lt;repo_directory&gt;/OSPACESG/source/_build/html</p>
-</div></blockquote>
+<li><p>You can now observe fresh changes to your web content <strong>locally only</strong> at <cite>index.html</cite> by going to::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">&lt;</span><span class="n">repo_directory</span><span class="o">&gt;/</span><span class="n">OSPACESG</span><span class="o">/</span><span class="n">source</span><span class="o">/</span><span class="n">_build</span><span class="o">/</span><span class="n">html</span>
+</pre></div>
+</div>
 </li>
 <li><p>GitHub Pages recognises the name <cite>index.html</cite> as the primary home page, but only in the <cite>docs</cite> directory and not <cite>source</cite>. What you had done in Step 6 was to build the website locally in the <cite>source</cite> folder, and therefore even if this was pushed to GitHub, the changes would not be reflected in the public web page. Thus, once you are ready to finalise your web content, in your command prompt (or in your Anaconda Prompt if you are an Anaconda user), run this batch file in the <cite>source</cite> folder::</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span> <span class="n">github</span>

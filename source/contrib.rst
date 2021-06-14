@@ -216,7 +216,7 @@ Now, let's re-write all of that, but in very specific steps this time.
 
 	make html
 
-7. You can now observe fresh changes to your web content **locally only** at `index.html` by going to:
+7. You can now observe fresh changes to your web content **locally only** at `index.html` by going to:::
 
 	cd <repo_directory>/OSPACESG/source/_build/html
 
