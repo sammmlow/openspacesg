@@ -43,7 +43,7 @@ As a speaker, we thank you for submitting your talks to the community! While the
 
 In addition, speakers should ensure that the work is free of plagiarism. Speakers should not pass off the work or ideas of others as their own. However, it is perfectly fine to present the published research of others, as long as it is clearly delivered in the form of a literature review, without copyright infringements and with credits to the original authors given.
 
-Finally, speakers are encouraged to openly and respectfully welcome honest feedback and questions from the community.
+Finally, speakers are encouraged to openly and respectfully welcome honest feedback from the community!
 
 |
 
