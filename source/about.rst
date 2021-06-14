@@ -39,32 +39,32 @@ Our Community Members
 	---
     :img-top: _static/_people/samlow.png
     
-    Sam Low (Administrator)
-    ^^^^^^^^^^^^^^^^^^^^^^^
+    Sam Low (Admin)
+    ^^^^^^^^^^^^^^^
     
-    Research Scientist at DSO, with interests in guidance, navigation, control and dynamics simulations for distributed satellite systems. Drinks too much coffee.
+    Research Scientist at DSO. MS Candidate at Stanford. Research interests in guidance, navigation, control and dynamics for formation flying and distributed satellite systems. Hates cockroaches.
     
     :badge:`sammmlow@gmail.com,badge-info`
     
 	---
     :img-top: _static/_people/sarthak.png
     
-    Sarthak (Administrator)
-    ^^^^^^^^^^^^^^^^^^^^^^^
+    Sarthak (Admin)
+    ^^^^^^^^^^^^^^^
     
     Aerospace Engineer at AGI. PhD Candidate at NTU. Research on gravity waves in planetary atmospheres, and expertise in satellite systems and ADCS. Lifts and plays drums.
     
     :badge:`sarthak.srivastava3@gmail.com,badge-info`
     
     ---
-    :img-top: _static/_people/unknown.png
+    :img-top: _static/_people/jesslyn.png
     
-    An Astronaut
-    ^^^^^^^^^^^^
+    Jesslyn Wong (Admin)
+    ^^^^^^^^^^^^^^^^^^^^
     
-    *Biography*
+    Founder and CEO of Tabernacle Group. Leads accomplished companies with global footprints, in Bio-Tech, Info-Tech, Fin-Tech, and Space. Top 25 under 35 Global CIO Award (2019).
     
-    :badge:`Contact,badge-info`
+    :badge:`founder@thg.sg,badge-info`
     
     ---
     :img-top: _static/_people/unknown.png
