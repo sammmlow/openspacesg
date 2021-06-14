@@ -47,17 +47,6 @@ Finally, speakers are encouraged to openly and respectfully welcome honest feedb
 
 |
 
-.. _conduct-editors-label:
-
-Code of Conduct for Editors
----------------------------
-
-The editorial team's key responsibility is the dissemination of our quarterly newsletters, and to ensure that the community can keep themselves updated with the research and development happenings in the Open Space Singapore Community. As such, editors are also entrusted with collaboration rights on the community's GitHub page. This means that editors, like admins, are trusted to change web-content wherever and whenever, for the curation of better content for the community.
-
-In line with the professional expectations, editors must ensure that information is formatted in a comprehensible manner for the community on the web portal; curated and chosen without any discrimination or biased selectivity of information; and disseminated to all in the mailing list in a timely manner. Editors who wish to edit the site contents should follow standard Git workflow and best practices where needed.
-
-|
-
 .. _conduct-admin-label:
 
 Code of Conduct for Administrators
@@ -82,7 +71,7 @@ The Open Space Singapore (OSSG) Community Initiative follows an open-source spir
 |
 |
 
-*Last Written on 14-Jun-2021, 11:14PM, by the Administrators*
+*Last Written on 14-Jun-2021, 14:35PM, by the Administrators*
 
 .. toctree::
    :maxdepth: 1
