@@ -17,8 +17,32 @@ Community Workshop (25 Jun 2021)
 --------------------------------
 |
 
-.. dropdown:: ...
+.. dropdown:: Twinkling Signals: The Ionosphere and its Impact on Operational Systems
 	:animate: fade-in
+	
+	**By: Christopher Luwanga, PhD Candidate, NTU SARC**
+	
+	.. link-button:: https://example.com
+		:text: No Link Available!
+		:classes: btn-success
+
+.. dropdown:: Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
+	:animate: fade-in
+	
+	**By: Samuel Low, Member of Technical Staff, DSO NL**
+	
+	.. link-button:: https://example.com
+		:text: No Link Available!
+		:classes: btn-success
+	
+.. dropdown:: SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
+	:animate: fade-in
+	
+	**By: Jacob Tang and Team Starfleet Command**
+	
+	.. link-button:: https://example.com
+		:text: No Link Available!
+		:classes: btn-success
 
 |
 
