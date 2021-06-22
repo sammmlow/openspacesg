@@ -6,8 +6,8 @@
 
 .. image:: /_static/_headers/openssg_head_events.png
 
-Community News and Events
-=========================
+Community Events
+================
 
 Our next publicly open rolling workshop is launching soon! Our rolling workshops are basically casual and relaxed meet-ups, where there is no fixed scope or theme as to what you can present. We mostly talk about our latest research and development of our space missions or satellites, or hold discussions on new ideas or community projects.
 
@@ -31,7 +31,7 @@ Our Next Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)
 
 |
 
-While there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
+If there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
 
 .. link-button:: https://forms.office.com/r/3aa9TtnK57
 	:text: Submit an Abstract to Our Next Rolling Workshop
@@ -39,7 +39,7 @@ While there are available slots in the presentation line-up, please feel free to
 
 |
 
-It is advised by the community that you should familiarise yourself with the :ref:`conduct-all-label` and the :ref:`conduct-authors-label`.
+Before attending our workshops or if you are presenting, do familiarise yourself with the :ref:`conduct-all-label` and the :ref:`conduct-authors-label`.
 
 Previous Open Space Rolling Workshops
 -------------------------------------
@@ -60,7 +60,6 @@ Previous Open Space Rolling Workshops
    09:40 - 09:45                                        
    09:45 - 10:00  Samuel Ong          CARNEGIE MELLON  An Introduction to Planetary Micro-Rovers at Carnegie Mellon University
    10:00 - 10:15  Lam Tze King        ALIENA           Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
-   09:40 - 09:45                                        
    =============  ==================  ===============  =====================================================================================
 
 |

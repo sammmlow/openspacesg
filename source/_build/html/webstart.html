@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Getting Started with Adding Web Content &#8212; Open Space Singapore</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinxdoc.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="shortcut icon" href="_static/openssg_favicon.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Community Events" href="events.html" />
+    <link rel="prev" title="Guide to Adding Content to Our Community Website" href="webwrite.html" />
+    <meta property="og:title" content="The Open Space Singapore Community">
+	<meta property="og:description" content="The Open Space Singapore Community">
+	<meta property="og:image" content="_static/_banners/openssg_banner_thumb.png">
+
+  </head><body>
+	<div class="pageheader">
+		<img src="_static/_banners/openssg_banner_head.png" alt="SPHINX" />
+	</div>
+
+	<div style="background-color: #739AA1; text-align: center; padding: 10px 10px 15px 15px"></div>
+	<div style="background-color: #E1EAEB; text-align: center; padding: 10px 10px 15px 15px">
+		<strong><a href="index.html">HOME</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="news.html">BULLETIN</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="events.html">EVENTS</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="repo.html">REPOSITORY</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="contrib.html">CONTRIBUTING</a>&nbsp;|&nbsp;</strong>
+		<strong><a href="conduct.html">CODE OF CONDUCT</a></strong>
+	</div>
+	
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <img alt="_images/openssg_head_bulletin_w.png" src="_images/openssg_head_bulletin_w.png" />
+<section id="getting-started-with-adding-web-content">
+<span id="web-install"></span><h1>Getting Started with Adding Web Content<a class="headerlink" href="#getting-started-with-adding-web-content" title="Permalink to this headline">¶</a></h1>
+<p>If you would like to manually add your own web content to the Open Space Singapore website, you would need to have Python and the Python Sphinx module installed. You would also need to be able to run Git commands on your work station. This site will run through <a class="reference internal" href="#install-python"><span class="std std-ref">Installing Python and Sphinx</span></a> and <a class="reference internal" href="#install-git"><span class="std std-ref">Cloning the GitHub Website</span></a> if you are new to this.</p>
+<section id="installing-python-and-sphinx">
+<span id="install-python"></span><h2>Installing Python and Sphinx<a class="headerlink" href="#installing-python-and-sphinx" title="Permalink to this headline">¶</a></h2>
+<p>To begin working on adding web content, you need to have Python installed. We suggest either using Python through <a class="reference external" href="https://www.anaconda.com/products/individual">Anaconda</a> which comes with the Spyder IDE, the Conda environment, and a pretty neat package manager, or you can try others like the <a class="reference external" href="https://www.jetbrains.com/pycharm/">PyCharm IDE</a> too.</p>
+<p>Make sure you have Python installed. If you’re using Anaconda, open up your Anaconda Prompt (so you know you’re in your Conda environment). Else, if you’ve Python installed in a separate environment, flip up your terminal and crunch::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">python</span> <span class="o">--</span><span class="n">version</span>
+</pre></div>
+</div>
+<p>You should see something like <cite>Python 3.X.X</cite>. You should be using Python 3, and not 2 (don’t be a dinosaur)! Next, you’ll need to install Sphinx and an extension called Sphinx Panels, using <cite>pip</cite>, which is basically a Python package installer. So, first, check if you have <cite>pip</cite> by typing in your same terminal::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="o">--</span><span class="n">version</span>
+</pre></div>
+</div>
+<p>You should see your <cite>pip</cite> version pop out like this for Anaconda users::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="mf">20.2.4</span> <span class="kn">from</span> <span class="nn">C</span><span class="p">:</span>\<span class="n">Users</span>\<span class="n">sammm</span>\<span class="n">anaconda3</span>\<span class="n">lib</span>\<span class="n">site</span><span class="o">-</span><span class="n">packages</span>\<span class="n">pip</span> <span class="p">(</span><span class="n">python</span> <span class="mf">3.8</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>Now, run the following command (which should work regardless of whether you’re a Linux, Mac or Windows user)::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">U</span> <span class="n">sphinx</span>
+</pre></div>
+</div>
+<p>After installation, verify it by typing on your terminal or command prompt::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">sphinx</span><span class="o">-</span><span class="n">build</span> <span class="o">--</span><span class="n">version</span>
+</pre></div>
+</div>
+<p>If everything worked fine, you will see the version number for the Sphinx package you just installed. For further help in installing Sphinx, checkout the <a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/installation.html">Sphinx installation guide</a> here. Next, we need to get Sphinx Panels. Currently, several widgets and buttons on the Open Space Singapore website make use of Sphinx panels. To install it, simply crunch::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="n">sphinx</span><span class="o">-</span><span class="n">panels</span>
+</pre></div>
+</div>
+</section>
+<section id="cloning-the-github-website">
+<span id="install-git"></span><h2>Cloning the GitHub Website<a class="headerlink" href="#cloning-the-github-website" title="Permalink to this headline">¶</a></h2>
+<p>In this section, we’re going to clone the website itself. We are going to assume you already have git installed, and that you can run git commands in your terminal. If you can’t, especially for Windows users, I suggest getting <a class="reference external" href="https://git-scm.com/downloads">Git Bash</a>. Alternatively you could also use <a class="reference external" href="https://desktop.github.com/">GitHub Desktop</a>, if you prefer less typing in the terminal.</p>
+<p>Once you have Git, navigate to the directory that you want (for example, your <cite>Desktop</cite> using the <cite>cd</cite> commands), and clone a local copy of the Open Space Singapore community website by running in terminal or Git Bash::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">sammmlow</span><span class="o">/</span><span class="n">OSPACESG</span><span class="o">.</span><span class="n">git</span>
+</pre></div>
+</div>
+<p>Now, enter the <cite>OSPACESG</cite> folder you just cloned, and list the files (<cite>ls</cite> for Linux or in Git Bash, or <cite>dir</cite> for Windows) and you’ll see the source code files::</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docs</span><span class="o">/</span>
+<span class="n">source</span><span class="o">/</span>
+<span class="n">LICENSE</span>
+<span class="n">README</span><span class="o">.</span><span class="n">md</span>
+</pre></div>
+</div>
+<p>If you see them, then congratulations, you’ve successfully got a local copy of the web on your work station! Now, let’s return to the <a class="reference internal" href="webwrite.html#webwrite-label"><span class="std std-ref">Guide to Adding Content to Our Community Website</span></a> look at how we can add web content.</p>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Getting Started with Adding Web Content</a><ul>
+<li><a class="reference internal" href="#installing-python-and-sphinx">Installing Python and Sphinx</a></li>
+<li><a class="reference internal" href="#cloning-the-github-website">Cloning the GitHub Website</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="webwrite.html"
+                        title="previous chapter">Guide to Adding Content to Our Community Website</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="events.html"
+                        title="next chapter">Community Events</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/webstart.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="events.html" title="Community Events"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="webwrite.html" title="Guide to Adding Content to Our Community Website"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Open Space Singapore</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="news.html" >Community Bulletin Board</a> &#187;</li>
+          <li class="nav-item nav-item-2"><a href="webwrite.html" accesskey="U">Guide to Adding Content to Our Community Website</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Getting Started with Adding Web Content</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, The Open Space Singapore Community.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.0.1.
+    </div>
+  </body>
+</html>
