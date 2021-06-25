@@ -11,7 +11,7 @@ Community Events
 
 Our next publicly open rolling workshop is launching soon! Our rolling workshops are basically casual and relaxed meet-ups, where there is no fixed scope or theme as to what you can present. We mostly talk about our latest research and development of our space missions or satellites, or hold discussions on new ideas or community projects.
 
-Our Next Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)
+Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
 -------------------------------------------------------------
 
 |
@@ -22,14 +22,15 @@ Our Next Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)
    =============  ===================  =============  ===================================================================================
    Time           Speaker (Mod*)             Org            Topic
    =============  ===================  =============  ===================================================================================
-   20:00 - 20:05  Sarthak Srivastava*  NTU SARC       Community Announcements
-   20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
-   20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
-   20:35 - 20:50  Jacob Tang           SSTA (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
-   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
+   20:00 - 20:05                                      *Available!*
+   20:05 - 20:20                                      *Available!*
+   20:20 - 20:35                                      *Available!*
+   20:35 - 20:50                                      *Available!*
+   20:50 - 21:00                                      *Available!*
    =============  ===================  =============  ===================================================================================
 
 |
+
 
 If there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
 
@@ -43,6 +44,23 @@ Before attending our workshops or if you are presenting, do familiarise yourself
 
 Previous Open Space Rolling Workshops
 -------------------------------------
+
+|
+
+**Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)**
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===================  =============  ===================================================================================
+   Time           Speaker (Mod*)             Org            Topic
+   =============  ===================  =============  ===================================================================================
+   20:00 - 20:05  Sarthak Srivastava*  NTU SARC       Community Announcements
+   20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
+   20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
+   20:35 - 20:50  Jacob Tang           SSTA (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
+   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
+   =============  ===================  =============  ===================================================================================
 
 |
 

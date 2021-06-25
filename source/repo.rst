@@ -31,8 +31,8 @@ Community Workshop (25 Jun 2021)
 	
 	**By: Samuel Low, Member of Technical Staff, DSO NL**
 	
-	.. link-button:: https://example.com
-		:text: No Link Available!
+	.. link-button:: https://openspacesg.com/papers/202106_NEqFRO_Design.pdf
+		:text: Link Available!
 		:classes: btn-success
 	
 .. dropdown:: SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
@@ -40,8 +40,8 @@ Community Workshop (25 Jun 2021)
 	
 	**By: Jacob Tang and Team Starfleet Command**
 	
-	.. link-button:: https://example.com
-		:text: No Link Available!
+	.. link-button:: https://openspacesg.com/papers/202106_TeamStarfleet_SSC.pdf
+		:text: Link Available!
 		:classes: btn-success
 
 |
@@ -56,7 +56,7 @@ Community Workshop (29 May 2021)
 	**By: Samuel Low and Sarthak Srivastava**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_Intro_OPENSSG.pdf
-		:text: Link to Material!
+		:text: Link Available!
 		:classes: btn-success
 
 
@@ -76,7 +76,7 @@ Community Workshop (29 May 2021)
 	**By: Akshay Gulati, Infinite Orbits**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_InfiniteOrbits_Activities.pdf
-		:text: Link to Material!
+		:text: Link Available!
 		:classes: btn-success
 
 
@@ -86,7 +86,7 @@ Community Workshop (29 May 2021)
 	**By: Samuel Ong, Carnegie Mellon University**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_Intro_Planetary_MicroRovers.pdf
-		:text: Link to Material!
+		:text: Link Available!
 		:classes: btn-success
 
 
@@ -96,7 +96,7 @@ Community Workshop (29 May 2021)
 	**By: Lam Tze King, Aliena Pte Ltd**
 	
 	.. link-button:: https://openspacesg.com/papers/202105_Aliena_LunarTrajectories.pdf
-		:text: Link to Material!
+		:text: Link Available!
 		:classes: btn-success
 
 
