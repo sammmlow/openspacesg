@@ -22,8 +22,8 @@ Community Workshop (25 Jun 2021)
 	
 	**By: Christopher Luwanga, PhD Candidate, NTU SARC**
 	
-	.. link-button:: https://example.com
-		:text: No Link Available!
+	.. link-button:: https://openspacesg.com/papers/202106_TwinklingSignals_Ionosphere.pdf
+		:text: Link Available!
 		:classes: btn-success
 
 .. dropdown:: Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
@@ -43,6 +43,10 @@ Community Workshop (25 Jun 2021)
 	.. link-button:: https://openspacesg.com/papers/202106_TeamStarfleet_SSC.pdf
 		:text: Link Available!
 		:classes: btn-success
+	
+	.. link-button:: https://www.youtube.com/watch?v=j4fLyaGy8TI
+		:text: Video Available!
+		:classes: btn-info
 
 |
 
