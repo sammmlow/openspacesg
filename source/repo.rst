@@ -47,6 +47,10 @@ Community Workshop (25 Jun 2021)
 	.. link-button:: https://www.youtube.com/watch?v=j4fLyaGy8TI
 		:text: Video Available!
 		:classes: btn-info
+	
+	.. link-button:: https://tngzjn53.wixsite.com/ssc2019-starfleet
+		:text: Website Available!
+		:classes: btn-info
 
 |
 
