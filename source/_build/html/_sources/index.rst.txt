@@ -34,10 +34,10 @@ Do checkout our site links for more information!
 .. toctree::
 	:maxdepth: 1
 	
-	news.rst
 	events.rst
 	repo.rst
-	contrib.rst
+	news.rst
 	conduct.rst
+	contrib.rst
 
 |
