@@ -23,6 +23,8 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 
 We work towards our mission first and foremost by making sure we love our tradecraft, and have fun doing it! We organise monthly rolling workshops, forums, and other activities where we discuss about developments in both space science and technology.
 
+To join us, click on the button below. After submitting the sign-up form, our Discord link will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community!
+
 .. link-button:: https://forms.office.com/r/jYxk1QAHPH
 	:text: Open Link to Join The Community!
 	:classes: btn-info btn-block font-weight-bold

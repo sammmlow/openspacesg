@@ -11,20 +11,19 @@
 Contributing to Open Space Singapore
 ====================================
 
-The Open Space Singapore project is purely community-driven research and development interest group, and as such, this project is open-sourced and thus contributable by everyone with a relevant background.
+The Open Space Singapore project is purely community-driven research and development interest group, and as such, this project is open-sourced (and so is the website) and thus contributable by everyone with a relevant background.
 
 Contributing Roles and Responsibilities
 ---------------------------------------
 
 * **Participants:** Just join and be there for our activities!
 * **Speakers:** Share your talks with us in our rolling workshops!
+* **Web Developers:** Curate meaningful content for the community web!
 * **Administrators:** Organise and moderate meaningful activities!
 
-You can join the community simply by subscribing to our mailing list in the home page. However, before you do, the OSSG community urges you to peruse our :ref:`conduct-label`.
+You can join the community simply by clicking on the button below. After submitting the sign-up form, our Discord link will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community! Do peruse our :ref:`conduct-label` too!
 
-For meaningful contributions from speakers and administrators, we would advise that the content shared and the activities organised be scoped within the developments within our local community and not on an external and international setting (as there is already a lot of coverage on such space news and events globally).
-
-If you are interested to take on more hats in our community initiatives, let us know below!
+|
 
 .. link-button:: https://forms.office.com/r/jYxk1QAHPH
 	:text: Open Link to Join The Community!
@@ -32,5 +31,11 @@ If you are interested to take on more hats in our community initiatives, let us 
 
 |
 
+If you are interested to write content for our website, you can always refer to the guide here.
+
 .. toctree::
    :maxdepth: 1
+   
+   webwrite.rst
+
+If you are interested to take on more hats in our community initiatives, drop us an email at: **openspacesg@outlook.com**, or chat with us openly in our community Discord (accessible after signing up)!

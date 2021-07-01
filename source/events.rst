@@ -22,11 +22,11 @@ Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
    =============  ===================  =============  ===================================================================================
    Time           Speaker (Mod*)             Org            Topic
    =============  ===================  =============  ===================================================================================
-   20:00 - 20:05                                      *Available!*
-   20:05 - 20:20                                      *Available!*
-   20:20 - 20:35                                      *Available!*
-   20:35 - 20:50                                      *Available!*
-   20:50 - 21:00                                      *Available!*
+   20:00 - 20:05  *Available!*         *Available!*   *Available!*
+   20:05 - 20:20  *Available!*         *Available!*   *Available!*
+   20:20 - 20:35  *Available!*         *Available!*   *Available!*
+   20:35 - 20:50  *Available!*         *Available!*   *Available!*
+   20:50 - 21:00  *Available!*         *Available!*   *Available!*
    =============  ===================  =============  ===================================================================================
 
 |
@@ -34,55 +34,15 @@ Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
 
 If there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
 
+|
+
 .. link-button:: https://forms.office.com/r/3aa9TtnK57
 	:text: Submit an Abstract to Our Next Rolling Workshop
 	:classes: btn-info btn-block
 
 |
 
-Before attending our workshops or if you are presenting, do familiarise yourself with the :ref:`conduct-all-label` and the :ref:`conduct-authors-label`.
-
-Previous Open Space Rolling Workshops
--------------------------------------
-
-|
-
-**Open Space Rolling Workshop (25-Jun-2021, 20:00 SGT)**
-
-.. table:: 
-   :widths: 18 24 18 40
-   
-   =============  ===================  =============  ===================================================================================
-   Time           Speaker (Mod*)             Org            Topic
-   =============  ===================  =============  ===================================================================================
-   20:00 - 20:05  Sarthak Srivastava*  NTU SARC       Community Announcements
-   20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
-   20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
-   20:35 - 20:50  Jacob Tang           SSTA (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
-   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
-   =============  ===================  =============  ===================================================================================
-
-|
-
-**Open Space Rolling Workshop (29-May-2021, 09:00 SGT)**
-
-.. table:: 
-   :widths: 18 24 18 40
-   
-   =============  ==================  ===============  =====================================================================================
-   Time           Speaker (Mod*)      Org              Topic
-   =============  ==================  ===============  =====================================================================================
-   09:00 - 09:10  Samuel* & Sarthak   DSO & NTU        An Introduction: The Open Space Singapore Community Initiative
-   09:10 - 09:25  Prof Amal Chandran  NTU SARC         INSPIRing the Next Space Generation: Creating an International Academic Space Program
-   09:25 - 09:40  Akshay Gulati       INFINITE ORBITS  Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
-   09:40 - 09:45                                        
-   09:45 - 10:00  Samuel Ong          CARNEGIE MELLON  An Introduction to Planetary Micro-Rovers at Carnegie Mellon University
-   10:00 - 10:15  Lam Tze King        ALIENA           Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
-   =============  ==================  ===============  =====================================================================================
-
-|
-
-For a repository of presentation material, do check out our archives on the :ref:`repo-label` page!
+For a repository of presentation material, do check out our archives on the :ref:`repo-label` page! Before attending our workshops or if you are presenting, do familiarise yourself with the :ref:`conduct-all-label` and the :ref:`conduct-authors-label`.
 
 .. toctree::
    :maxdepth: 1

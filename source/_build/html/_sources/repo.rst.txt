@@ -8,13 +8,31 @@
 
 .. _repo-label:
 
-Community Repository and Archives
-=================================
+Community Archives
+==================
 
-In this page, you will find research material and shared papers from past Open Space SG workshops archived here.
+In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
-Community Workshop (25 Jun 2021)
---------------------------------
+|
+
+Open Space SG Rolling Workshop (25 Jun 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===================  =============  ===================================================================================
+   Time           Speaker (Mod*)             Org            Topic
+   =============  ===================  =============  ===================================================================================
+   20:00 - 20:05  Sarthak Srivastava*  NTU SARC       Community Announcements
+   20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
+   20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
+   20:35 - 20:50  Jacob Tang           SSTA (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
+   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
+   =============  ===================  =============  ===================================================================================
+
 |
 
 .. dropdown:: Twinkling Signals: The Ionosphere and its Impact on Operational Systems
@@ -54,8 +72,25 @@ Community Workshop (25 Jun 2021)
 
 |
 
-Community Workshop (29 May 2021)
---------------------------------
+Open Space SG Rolling Workshop (29 May 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ==================  ===============  =====================================================================================
+   Time           Speaker (Mod*)      Org              Topic
+   =============  ==================  ===============  =====================================================================================
+   09:00 - 09:10  Samuel* & Sarthak   DSO & NTU        An Introduction: The Open Space Singapore Community Initiative
+   09:10 - 09:25  Prof Amal Chandran  NTU SARC         INSPIRing the Next Space Generation: Creating an International Academic Space Program
+   09:25 - 09:40  Akshay Gulati       INFINITE ORBITS  Infinite Orbit’s Autonomous GNC Technologies for In-Orbit Servicing
+   09:40 - 09:45                                        
+   09:45 - 10:00  Samuel Ong          CARNEGIE MELLON  An Introduction to Planetary Micro-Rovers at Carnegie Mellon University
+   10:00 - 10:15  Lam Tze King        ALIENA           Targeting Low-Thrust Earth-Moon Transfer Trajectories with Ballistic Capture
+   =============  ==================  ===============  =====================================================================================
+
 |
 
 .. dropdown:: An Introduction: The Open Space Singapore Community Initiative
@@ -107,10 +142,8 @@ Community Workshop (29 May 2021)
 		:text: Link Available!
 		:classes: btn-success
 
+|
 
 .. toctree::
    :maxdepth: 1
    
-
-
-
