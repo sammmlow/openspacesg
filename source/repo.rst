@@ -30,7 +30,7 @@ Open Space SG Rolling Workshop (25 Jun 2021)
    20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
    20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
    20:35 - 20:50  Jacob Tang           SSTA (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
-   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
+   20:50 - 21:00  Administrators       OPENSSG        Introducing Admins, Discussion on Community Feature Page and Closing.
    =============  ===================  =============  ===================================================================================
 
 |
