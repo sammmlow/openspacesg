@@ -23,7 +23,7 @@ Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
    Time           Speaker (Mod*)             Org            Topic
    =============  ===================  =============  ===================================================================================
    20:00 - 20:10  Moderator*           OPENSSG        Meet, Greet, Random Chatter
-   20:10 - 20:30  Jacob Tang           SSTA (SSC)     Orbits!
+   20:10 - 20:30  Jacob Tang           SSTA (SSC)     Orbits! (Introductory Tutorial)
    20:30 - 20:50  Sarthak Srivastava   NTU SARC       Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
    20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
    21:10 - 21:15  Moderator*           OPENSSG        Closing
