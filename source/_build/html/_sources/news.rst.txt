@@ -31,7 +31,58 @@ This is the Community Bulletin Board where you, as a community member, can pin u
    ..
       _Comment: Announcement blocks are separated by '..'.
       To copy announcement blocks, copy lines starting from one '..',
-      to the line right before the next '..'
+      to the line right before the next '_Comment:' block.
+   
+   **ANNOUNCEMENT ON 25-JUL-2021**
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   
+   .. image:: /_static/_announcements/a06.jpg
+	  :align: center
+   
+   |
+   
+   Tackling the global maritime challenge from space
+   Date 26 July 2021, 15:00 – 16:00, Singapore
+   https://www.eco-business.com/events/tackling-the-global-maritime-challenge-from-space/
+   
+   ++++++++++++++
+   .. link-button:: : https://www.space.org.sg/isc/
+	  :text: Link to More Information!
+	  :classes: btn-info btn-block font-weight-bold
+   
+   ---
+   
+   
+   
+   ..
+      _Comment: Announcement blocks are separated by '..'.
+      To copy announcement blocks, copy lines starting from one '..',
+      to the line right before the next '_Comment:' block.
+   
+   **ANNOUNCEMENT ON 24-JUL-2021**
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   
+   .. image:: /_static/_announcements/a05.jpg
+	  :align: center
+   
+   |
+   
+   24 July (Sat), 2pm - Space Education & Activities for Youth in Southeast Asia – SGAC.
+   Speakers’ Lineup: https://bit.ly/3hLCjuD
+   
+   ++++++++++++++
+   .. link-button:: : https://www.space.org.sg/isc/
+	  :text: Link to More Information!
+	  :classes: btn-info btn-block font-weight-bold
+   
+   ---
+   
+   
+   
+   ..
+      _Comment: Announcement blocks are separated by '..'.
+      To copy announcement blocks, copy lines starting from one '..',
+      to the line right before the next '_Comment:' block.
    
    **ANNOUNCEMENT ON 02-JUL-2021**
    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

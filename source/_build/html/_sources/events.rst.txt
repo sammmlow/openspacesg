@@ -9,7 +9,17 @@
 Community Events
 ================
 
-Our next publicly open rolling workshop is launching soon! Our rolling workshops are basically casual and relaxed meet-ups, where there is no fixed scope or theme as to what you can present. We mostly talk about our latest research and development of our space missions or satellites, or hold discussions on new ideas or community projects.
+Our next publicly open rolling workshop is launching soon! The Zoom link to our monthly meets are included only to folks in our mailing list. To join our mailing list and discord, sign up below!
+
+|
+
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+   :text: Sign-Up Link to Join The Community!
+   :classes: btn-info btn-block font-weight-bold
+
+|
+
+Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme. However, our discussions are scoped around aerospace activities in Singapore.
 
 Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
 -------------------------------------------------------------
@@ -22,11 +32,11 @@ Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
    =============  ===================  =============  ===================================================================================
    Time           Speaker (Mod*)             Org            Topic
    =============  ===================  =============  ===================================================================================
-   20:00 - 20:10  Moderator*           OPENSSG        Meet, Greet, Random Chatter
-   20:10 - 20:30  Jacob Tang           SSTA (SSC)     Orbits! (Introductory Tutorial)
+   20:00 - 20:10  Moderator*                          Meet, Greet, Random Chatter
+   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! (Introductory Tutorial)
    20:30 - 20:50  Sarthak Srivastava   NTU SARC       Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
    20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
-   21:10 - 21:15  Moderator*           OPENSSG        Closing
+   21:10 - 21:15  Moderator*                          Closing
    =============  ===================  =============  ===================================================================================
 
 |

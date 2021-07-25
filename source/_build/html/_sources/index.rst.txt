@@ -9,7 +9,15 @@
 Welcome to the Open Space Singapore Community!
 ==============================================
 
-The Open Space Singapore Community is a technical body of young professionals, hobbyists and students with a passion for the research and development of space science and engineering.
+The Open Space Singapore Community is a technical body of young professionals, hobbyists and students with a passion for the research and development of space science and engineering. Click the link below to join the community (as well as the mailing list and our Discord)!
+
+|
+
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+   :text: Sign-Up Link to Join The Community!
+   :classes: btn-info btn-block font-weight-bold
+
+|
 
 Our mission is to synergise the local aerospace community, create an avenue to channel our professional service back to the community, and give our younger talents a runway for learning and career development. We envision a cohesive aerospace community where we celebrate open discourse and promote mindshare for the greater good and for the development of our community members.
 
@@ -23,15 +31,7 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 
 We work towards our mission first and foremost by making sure we love our tradecraft, and have fun doing it! We organise monthly rolling workshops, forums, and other activities where we discuss about developments in both space science and technology.
 
-To join us, click on the button below. After submitting the sign-up form, our **Discord link** will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community!
-
-|
-
-.. link-button:: https://forms.office.com/r/jYxk1QAHPH
-   :text: Open Link to Join The Community!
-   :classes: btn-info btn-block font-weight-bold
-
-|
+After submitting the sign-up form (see the link above), our **Discord link** will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community!
 
 Do checkout our site links for more information!
 
@@ -40,7 +40,6 @@ Do checkout our site links for more information!
 	
 	events.rst
 	repo.rst
-	news.rst
 	conduct.rst
 	contrib.rst
 
