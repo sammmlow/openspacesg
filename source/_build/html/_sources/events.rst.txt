@@ -21,7 +21,7 @@ Our next publicly open rolling workshop is launching soon! The Zoom link to our 
 
 Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme. However, our discussions are scoped around aerospace activities in Singapore.
 
-Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
+Our Next Open Space Rolling Workshop (27-Aug-2021, 20:00 SGT)
 -------------------------------------------------------------
 
 |
@@ -29,15 +29,15 @@ Our Next Open Space Rolling Workshop (30-Jul-2021, 20:00 SGT)
 .. table:: 
    :widths: 18 24 18 40
    
-   =============  ===================  =============  ===================================================================================
-   Time           Speaker (Mod*)             Org            Topic
-   =============  ===================  =============  ===================================================================================
-   20:00 - 20:10  Moderator*                          Meet, Greet, Random Chatter
-   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! (Introductory Tutorial)
-   20:30 - 20:50  Sarthak Srivastava   NTU SARC       Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
-   20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
-   21:10 - 21:15  Moderator*                          Closing
-   =============  ===================  =============  ===================================================================================
+   =============  ===================  =====================  =====================================================
+   Time           Speaker (Mod*)       Org                    Topic
+   =============  ===================  =====================  =====================================================
+   20:00 - 20:10  Administrators*                             Meet, Greet, Random Introductions
+   20:10 - 20:30  Jacob Tang           SSTL (SSC)             Special Relativity! An Introduction!
+   20:30 - 20:50  Sai Wai Phyo         SINGAPORE POLYTECHNIC  Project Boom: An Amateur Rocket Launch to Mach 1
+   20:50 - 21:15  Special Guest!       ???                    ???
+   21:15 - 21:20  Administrators*                             Closing
+   =============  ===================  =====================  =====================================================
 
 |
 

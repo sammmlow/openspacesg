@@ -15,6 +15,55 @@ In this page, you will find a schedule of past events, research material and sha
 
 |
 
+Open Space SG Rolling Workshop (30 Jul 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===================  =============  ===================================================================================
+   Time           Speaker (Mod*)             Org            Topic
+   =============  ===================  =============  ===================================================================================
+   20:00 - 20:10  Administrators*                     Meet, Greet, Random Introductions
+   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! (Introductory Tutorial)
+   20:30 - 20:50  Sarthak Srivastava   AGI & SARC     Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
+   20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
+   21:10 - 21:15  Administrators*                     Closing
+   =============  ===================  =============  ===================================================================================
+
+|
+
+.. dropdown:: Orbits! An Introductory Tutorial
+	:animate: fade-in
+	
+	**By: Jacob Tang, SSTL**
+	
+	.. link-button:: https://universesandbox.com/
+		:text: Link to Universe Sandbox
+		:classes: btn-success
+
+.. dropdown:: Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
+	:animate: fade-in
+	
+	**By: Sarthak Srivastava, International Systems Engineer at AGI (An Ansys Company)**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+	
+.. dropdown:: What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
+	:animate: fade-in
+	
+	**By: Poh Gang Kai, NASA Goddard Space Flight Center**
+	
+	.. link-button:: https://openspacesg.com/papers/202107_What_We_Learnt_About_Mercury.pdf
+		:text: Link Available!
+		:classes: btn-success
+
+|
+
 Open Space SG Rolling Workshop (25 Jun 2021)
 --------------------------------------------
 
