@@ -32,10 +32,10 @@ Our Next Open Space Rolling Workshop (27-Aug-2021, 20:00 SGT)
    =============  ===================  =====================  ==========================================================================
    Time           Speaker (Mod*)       Org                    Topic
    =============  ===================  =====================  ==========================================================================
-   20:00 - 20:10  Administrators*                             Meet, Greet, Random Introductions
+   20:00 - 20:10  Moderator*                                  Meet, Greet, Random Introductions
    20:10 - 20:30  Jacob Tang           SSTL (SSC)             Special Relativity! An Introduction!
    20:30 - 20:50  Sai Wai Phyo         SINGAPORE POLYTECHNIC  West Coast Rocketry Singapore: Aerospace Projects By A Polytechnic Student
-   20:50 - 21:15  Administrators*                             Closing
+   20:50 - 21:15  Moderator*                                  Closing
    =============  ===================  =====================  ==========================================================================
 
 |
