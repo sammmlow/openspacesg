@@ -21,12 +21,12 @@ Contributing Roles and Responsibilities
 * **Web Developers:** Curate meaningful content for the community web!
 * **Administrators:** Organise and moderate meaningful activities!
 
-You can join the community simply by clicking on the button below. After submitting the sign-up form, our Discord link will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community! Do peruse our :ref:`conduct-label` too!
+You can join the community simply by clicking on the button below. After submitting the sign-up form, our Discord link will be revealed to you, and our team of admins will verify you once you have joined and introduced yourself to the community! Do peruse our :ref:`conduct-label` too! To join our mailing list and discord, click on the link below (this is the same link as the QR code on the home page).
 
 |
 
 .. link-button:: https://forms.office.com/r/jYxk1QAHPH
-	:text: Open Link to Join The Community!
+	:text: Sign-Up Link to Join The Community!
 	:classes: btn-info btn-block font-weight-bold
 
 |

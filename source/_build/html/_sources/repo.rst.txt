@@ -27,7 +27,7 @@ Open Space SG Rolling Workshop (30 Jul 2021)
    Time           Speaker (Mod*)             Org            Topic
    =============  ===================  =============  ===================================================================================
    20:00 - 20:10  Administrators*                     Meet, Greet, Random Introductions
-   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! (Introductory Tutorial)
+   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! An Introductory Tutorial
    20:30 - 20:50  Sarthak Srivastava   AGI & SARC     Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
    20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
    21:10 - 21:15  Administrators*                     Closing
