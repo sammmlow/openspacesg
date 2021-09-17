@@ -1,13 +1,13 @@
-.. image:: https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_banner_head.png
+.. image:: https://raw.githubusercontent.com/OPENSPACESG/OSPACESG/main/source/_static/_banners/openssg_banner_head.png
 
 .. |website| image:: https://img.shields.io/badge/website-active-brightgreen.svg?style=flat-square
    :target: https://openspacesg.com
 
 .. |license| image:: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-   :target: https://github.com/sammmlow/OSPACESG/blob/master/LICENSE
+   :target: https://github.com/OPENSPACESG/OSPACESG/blob/master/LICENSE
 
 :Project: The Open Space Singapore Community Web
-:Github: https://github.com/sammmlow/OSPACESG
+:Github: https://github.com/OPENSPACESG/OSPACESG
 :Website: https://openspacesg.com
 :Version: 1.0 (Actively Publishing)
 
@@ -30,7 +30,7 @@ Our mission is to synergise the local aerospace community, create an avenue to c
 .. raw:: html
 	
 	<p align="center">
-		<img src="https://raw.githubusercontent.com/sammmlow/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px">
+		<img src="https://raw.githubusercontent.com/OPENSPACESG/OSPACESG/main/source/_static/_banners/openssg_values.png" width="400px">
 	</p>
 
 |
@@ -59,4 +59,4 @@ openspacesg@outlook.com
 
 |website| |license|
 
-*Last Modified on 30-May-2021*
+*Last Modified on 17-Sep-2021*
