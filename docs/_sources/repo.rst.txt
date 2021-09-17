@@ -13,6 +13,53 @@ Community Archives
 
 In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
+Open Space SG Rolling Workshop (27 Aug 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ================  ======================  ==========================================================================
+   Time           Speaker (Mod*)    Org                     Topic
+   =============  ================  ======================  ==========================================================================
+   20:00 - 20:10  Moderator*                                Meet, Greet, Random Introductions
+   20:10 - 20:30  Jacob Tang        OPENSPACESG             Orbits (Part 2)! Kerbal Space Program
+   20:30 - 20:50  Sai Wai Phyo      SINGAPORE POLYTECHNIC   West Coast Rocketry Singapore: Aerospace Projects By A Polytechnic Student
+   20:50 - 21:10  Dr Shian Lim      ALPHA SWIFT INDUSTRIES  Centimeter Level Positioning With GPS Using RTK
+   20:50 - 21:15  Moderator*                                Closing
+   =============  ================  ======================  ==========================================================================
+
+|
+
+.. dropdown:: Orbits (Part 2)! Kerbal Space Program
+	:animate: fade-in
+	
+	**By: Jacob Tang, SSTL**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+
+.. dropdown:: West Coast Rocketry Singapore: Aerospace Projects By A Polytechnic Student
+	:animate: fade-in
+	
+	**By: Sai Wai Phyo, Student at Singapore Polytechnic**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+	
+.. dropdown:: Centimeter Level Positioning With GPS Using RTK
+	:animate: fade-in
+	
+	**By: Dr Shian Lim, CEO of Alphaswift Industries**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+
 |
 
 Open Space SG Rolling Workshop (30 Jul 2021)
@@ -24,10 +71,10 @@ Open Space SG Rolling Workshop (30 Jul 2021)
    :widths: 18 24 18 40
    
    =============  ===================  =============  ===================================================================================
-   Time           Speaker (Mod*)             Org            Topic
+   Time           Speaker (Mod*)       Org            Topic
    =============  ===================  =============  ===================================================================================
    20:00 - 20:10  Administrators*                     Meet, Greet, Random Introductions
-   20:10 - 20:30  Jacob Tang           SSTL (SSC)     Orbits! An Introductory Tutorial
+   20:10 - 20:30  Jacob Tang           OPENSPACESG    Orbits! An Introductory Tutorial
    20:30 - 20:50  Sarthak Srivastava   AGI & SARC     Ripples in the Atmosphere: Gravity Waves and their Detection in GPS Signals
    20:50 - 21:10  Dr Poh Gang Kai      NASA GSFC      What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO
    21:10 - 21:15  Administrators*                     Closing
@@ -79,7 +126,7 @@ Open Space SG Rolling Workshop (25 Jun 2021)
    20:05 - 20:20  Christopher Luwanga  NTU SARC       Twinkling Signals: The Ionosphere and its Impact on Radio-Based Systems
    20:20 - 20:35  Samuel Low           DSO NL         Designing a Reference Trajectory for Frozen Repeat Near-Equatorial LEOs
    20:35 - 20:50  Jacob Tang           SSTL (SSC)     SSC 2020 Team Starfleet - Quest to Mitigate the Existential Threat of Space Debris!
-   20:50 - 21:00  Administrators       OPENSSG        Introducing Admins, Discussion on Community Feature Page and Closing.
+   20:50 - 21:00  Administrators       OPENSPACESG    Introducing Admins, Discussion on Community Feature Page and Closing.
    =============  ===================  =============  ===================================================================================
 
 |
