@@ -18,7 +18,7 @@
 The Open Space Singapore Community
 ==================================
 
-The Open Space Singapore Community is a technical body of young professionals and students with a passion for the research and development of space science and engineering.
+The Open Space Singapore Community is a technical body of young professionals and students with a passion for research and development of space science and engineering.
 
 About the Community
 -------------------
