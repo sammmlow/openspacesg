@@ -13,6 +13,11 @@ The Open Space Singapore Community is a technical body of young professionals, h
 
 |
 
+.. image:: /_static/EVIL_PENGUINS.jpg
+
+
+|
+
 .. image:: /_static/_banners/openssg_form.png
    :target: https://forms.office.com/r/jYxk1QAHPH
    :align: center
