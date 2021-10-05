@@ -13,6 +13,55 @@ Community Archives
 
 In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
+Open Space SG Rolling Workshop (24 Sep 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===============  =====================  ===============================================================================
+   Time           Speaker (Mod*)   Org                    Topic
+   =============  ===============  =====================  ===============================================================================
+   20:00 - 20:10  Moderator*                              Meet, Greet, Random Introductions
+   20:10 - 20:30  Juan Luis**      POLIASTRO              Introduction to PoliAstro and Similar Tools (Guest Speaker!)
+   20:30 - 20:45  Samuel Low       OPENSPACESG            Open-Source Web Development for OPENSPACESG
+   20:45 - 21:00  Jacob Tang       OPENSPACESG            Apollo Guidence Computer: Luminary099, "BURN_BABY_BURN_Master_Ignition_Routine"
+   21:00 - 21:05  Moderator*                              Closing
+   =============  ===============  =====================  ===============================================================================
+
+|
+
+.. dropdown:: Introduction to PoliAstro and Similar Tools
+	:animate: fade-in
+	
+	**By: Juan Luis, Founder of PoliAstro**
+	
+	.. link-button:: https://docs.poliastro.space/en/stable/
+		:text: Link Available!
+		:classes: btn-success
+
+.. dropdown:: Open-Source Web Development for OPENSPACESG
+	:animate: fade-in
+	
+	**By: Samuel Low, Open Space Singapore**
+	
+	.. link-button:: https://openspacesg.com/papers/202108_RandomAerospaceProjects_Part1.pdf
+		:text: Link Available!
+		:classes: btn-success
+	
+.. dropdown:: Apollo Guidence Computer: Luminary099, "BURN_BABY_BURN_Master_Ignition_Routine"
+	:animate: fade-in
+	
+	**By: Jacob Tang, Open Space Singapore**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+
+|
+
 Open Space SG Rolling Workshop (27 Aug 2021)
 --------------------------------------------
 
@@ -47,8 +96,8 @@ Open Space SG Rolling Workshop (27 Aug 2021)
 	
 	**By: Sai Wai Phyo, Student at Singapore Polytechnic**
 	
-	.. link-button:: https://openspacesg.com
-		:text: No Link Available!
+	.. link-button:: https://openspacesg.com/papers/202108_RandomAerospaceProjects_Part1.pdf
+		:text: Link Available!
 		:classes: btn-success
 	
 .. dropdown:: Centimeter Level Positioning With GPS Using RTK
@@ -96,8 +145,8 @@ Open Space SG Rolling Workshop (30 Jul 2021)
 	
 	**By: Sarthak Srivastava, International Systems Engineer at AGI (An Ansys Company)**
 	
-	.. link-button:: https://openspacesg.com
-		:text: No Link Available!
+	.. link-button:: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JA028507
+		:text: Link Available!
 		:classes: btn-success
 	
 .. dropdown:: What We Learnt About Mercury: From MESSENGER to BEPI-COLOMBO

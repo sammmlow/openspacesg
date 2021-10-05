@@ -11,7 +11,7 @@ Community Events
 
 Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
-Our Next Open Space Rolling Workshop (24-Sep-2021, 20:00 SGT)
+Our Next Open Space Rolling Workshop (22-Oct-2021, 20:00 SGT)
 -------------------------------------------------------------
 
 |
@@ -19,15 +19,15 @@ Our Next Open Space Rolling Workshop (24-Sep-2021, 20:00 SGT)
 .. table:: 
    :widths: 18 24 18 40
    
-   =============  ===============  =====================  ===============================================================================
+   =============  ===============  =====================  ================================================================================
    Time           Speaker (Mod*)   Org                    Topic
-   =============  ===============  =====================  ===============================================================================
+   =============  ===============  =====================  ================================================================================
    20:00 - 20:10  Moderator*                              Meet, Greet, Random Introductions
-   20:10 - 20:30  Juan Luis**      POLIASTRO              Introduction to PoliAstro and Similar Tools (Guest Speaker!)
-   20:30 - 20:45  Samuel Low       OPENSPACESG            Open-Source Web Development for OPENSPACESG
-   20:45 - 21:00  Jacob Tang       OPENSPACESG            Apollo Guidence Computer: Luminary099, "BURN_BABY_BURN_Master_Ignition_Routine"
+   20:10 - 20:30  Sai Wai Phyo     SINGAPORE POLYTECHNIC  DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
+   20:30 - 20:45  Jacob Tang       OPEN SPACE SINGAPORE   Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
+   20:45 - 21:00  *Available!*     *Available!*           *Available!*
    21:00 - 21:05  Moderator*                              Closing
-   =============  ===============  =====================  ===============================================================================
+   =============  ===============  =====================  ================================================================================
 
 |
 

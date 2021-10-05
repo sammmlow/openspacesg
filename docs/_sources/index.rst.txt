@@ -9,19 +9,13 @@
 Welcome to the Open Space Singapore Community!
 ==============================================
 
-The Open Space Singapore Community is a technical body of young professionals, hobbyists and students with a passion for the research and development of space science and engineering. Click (or scan) the QR code below to join the community (as well as the mailing list and our Discord)!
+The Open Space Singapore Community is a technical body of young professionals, hobbyists and students with a passion for the research and development of space science and engineering. Click the link below to join the community (as well as the mailing list and our Discord)!
 
 |
 
-.. image:: /_static/EVIL_PENGUINS.jpg
-
-
-|
-
-.. image:: /_static/_banners/openssg_form.png
-   :target: https://forms.office.com/r/jYxk1QAHPH
-   :align: center
-   :width: 350
+.. link-button:: https://forms.office.com/r/jYxk1QAHPH
+	:text: Sign-Up Link to Join The Community!
+	:classes: btn-info btn-block font-weight-bold
 
 |
 
