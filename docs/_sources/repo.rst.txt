@@ -47,7 +47,7 @@ Open Space SG Rolling Workshop (24 Sep 2021)
 	
 	**By: Samuel Low, Open Space Singapore**
 	
-	.. link-button:: https://openspacesg.com/papers/202108_RandomAerospaceProjects_Part1.pdf
+	.. link-button:: https://openspacesg.com/papers/202109_OpenSpaceSG_WebTutorial.pdf
 		:text: Link Available!
 		:classes: btn-success
 	
