@@ -11,7 +11,7 @@ Community Events
 
 Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
-Our Next Open Space Rolling Workshop (26-Nov-2021, 20:00 SGT)
+Our Next Open Space Rolling Workshop (31-Dec-2021, XX:XX SGT)
 -------------------------------------------------------------
 
 |
@@ -23,14 +23,13 @@ Our Next Open Space Rolling Workshop (26-Nov-2021, 20:00 SGT)
    Time           Speaker (Mod*)   Org                        Topic
    =============  ===============  =========================  ====================================================================================
    20:00 - 20:10  Moderator*                                  Meet, Greet, Random Introductions
-   20:10 - 20:30  Sai Wai Phyo     SINGAPORE POLYTECHNIC      DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
-   20:30 - 20:45  Sarthak & Sneha  AGI & NTU SARC             A Conversation with Sneha - The 1st Singapore Recipient of the NASA SCaN Scholarship
-   20:45 - 21:00  Samuel Low       DSO NATIONAL LABORATORIES  ORBITM: An Open-Source Software for Low Earth Orbit Maintenance in Python
+   20:10 - 20:30  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
+   20:30 - 20:45  *Available*      *Available*                *Available*
+   20:45 - 21:00  *Available*      *Available*                *Available*
    21:00 - 21:05  Moderator*                                  Closing
    =============  ===============  =========================  ====================================================================================
 
 |
-
 
 If there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
 

@@ -13,6 +13,57 @@ Community Archives
 
 In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
+|
+
+Open Space SG Rolling Workshop (26 Nov 2021)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===============  =========================  ====================================================================================
+   Time           Speaker (Mod*)   Org                        Topic
+   =============  ===============  =========================  ====================================================================================
+   20:00 - 20:10  Moderator*                                  Meet, Greet, Random Introductions
+   20:10 - 20:30  Sai Wai Phyo     SINGAPORE POLYTECHNIC      DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
+   20:30 - 20:45  Sarthak & Sneha  AGI & NTU SARC             A Conversation with Sneha - The 1st Singapore Recipient of the NASA SCaN Scholarship
+   20:45 - 21:00  Samuel Low       DSO NATIONAL LABORATORIES  ORBITM: An Open-Source Software for Low Earth Orbit Maintenance in Python
+   21:00 - 21:05  Moderator*                                  Closing
+   =============  ===============  =========================  ====================================================================================
+
+|
+
+.. dropdown:: DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
+	:animate: fade-in
+	
+	**By: Sai Wai Phyo, Aerospace Student in Singapore Polytechnic**
+	
+	.. link-button:: https://openspacesg.com/papers/202111_HybridRocket_WaiPhyo.pdf
+		:text: Link Available!
+		:classes: btn-success
+
+.. dropdown:: ORBITM: An Open-Source Software for Low Earth Orbit Maintenance in Python
+	:animate: fade-in
+	
+	**By: Samuel Low, DSO National Laboratories**
+	
+	.. link-button:: https://openspacesg.com/papers/202111_OrbitM_OSCW2020.pdf
+		:text: Link Available!
+		:classes: btn-success
+	
+.. dropdown:: A Conversation with Sneha - The 1st Singapore Recipient of the NASA SCaN Scholarship
+	:animate: fade-in
+	
+	**By: Sarthak and Sneha, AGI and NTU SARC**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+
+|
+
 Open Space SG Rolling Workshop (24 Sep 2021)
 --------------------------------------------
 
