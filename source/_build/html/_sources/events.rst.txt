@@ -19,15 +19,15 @@ Our Next Open Space Rolling Workshop (26-Nov-2021, 20:00 SGT)
 .. table:: 
    :widths: 18 24 18 40
    
-   =============  ===============  =====================  ================================================================================
-   Time           Speaker (Mod*)   Org                    Topic
-   =============  ===============  =====================  ================================================================================
-   20:00 - 20:10  Moderator*                              Meet, Greet, Random Introductions
-   20:10 - 20:30  Sai Wai Phyo     SINGAPORE POLYTECHNIC  DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
-   20:30 - 20:45  Jacob Tang       OPEN SPACE SINGAPORE   Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
-   20:45 - 21:00  *Available!*     *Available!*           *Available!*
-   21:00 - 21:05  Moderator*                              Closing
-   =============  ===============  =====================  ================================================================================
+   =============  ===============  =========================  ====================================================================================
+   Time           Speaker (Mod*)   Org                        Topic
+   =============  ===============  =========================  ====================================================================================
+   20:00 - 20:10  Moderator*                                  Meet, Greet, Random Introductions
+   20:10 - 20:30  Sai Wai Phyo     SINGAPORE POLYTECHNIC      DIY Hybrid Rocket Motor Simple GOx/PLA Rocket motor for less than $300
+   20:30 - 20:45  Samuel Low       DSO NATIONAL LABORATORIES  Orbit.M - An Open-Source Software for Low Earth Orbit Maintenance in Python
+   20:45 - 21:00  Sarthak & Sneha  AGI & NTU SARC             A Conversation with Sneha - The 1st Singapore Recipient of the NASA SCaN Scholarship
+   21:00 - 21:05  Moderator*                                  Closing
+   =============  ===============  =========================  ====================================================================================
 
 |
 
