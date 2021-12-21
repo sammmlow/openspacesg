@@ -23,7 +23,7 @@ Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT, or +8 UTC)
    Time           Speaker (Mod*)   Org                        Topic
    =============  ===============  =========================  ====================================================================================
    20:00 - 20:05  Moderator*                                  Meet, Greet, Random Introductions
-   20:05 - 20:30  Red Boumghar     LIBRE SPACE FOUNDATION     *Secret guest speaker!*
+   20:05 - 20:30  Red Boumghar     LIBRE SPACE FOUNDATION     *A secret guest speaker!*
    20:30 - 20:45  Noel Png         ALBA ORBITAL               *Waiting for Noel's title...*
    20:45 - 21:00  Samuel Low       DSO NATIONAL LABORATORIES  Optimizing Pointing Sequences in Large Formations with Reinforcement Learning
    21:00 - 21:15  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
