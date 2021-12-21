@@ -11,8 +11,8 @@ Community Events
 
 The December workshop will be adjourned to January 2022; spend some time with your family and friends this Christmas and New Year! Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
-Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT, or +8 UTC)
-------------------------------------------------------------------------
+Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT or 13:00 UTC)
+--------------------------------------------------------------------------
 
 |
 
