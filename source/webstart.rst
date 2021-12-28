@@ -53,7 +53,7 @@ In this section, we're going to clone the website itself. We are going to assume
 
 Once you have Git, navigate to the directory that you want (for example, your `Desktop` using the `cd` commands), and clone a local copy of the Open Space Singapore community website by running in terminal or Git Bash:::
 
-	git clone https://github.com/sammmlow/OSPACESG.git
+	git clone https://github.com/sammmlow/openspacesg.git
 
 Now, enter the `OSPACESG` folder you just cloned, and list the files (`ls` for Linux or in Git Bash, or `dir` for Windows) and you'll see the source code files:::
 

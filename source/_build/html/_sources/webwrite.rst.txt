@@ -17,7 +17,7 @@ If you have Python and Sphinx installed, and you're familiar with the web build,
 
 Else, if you're new, jump to our Python and Sphinx install guide at :ref:`install-python`. Additionally, you would need to clone the website repository, you can find this at :ref:`install-git`. Alternatively, clone it manually from the GitHub link below.
 
-.. link-button:: https://github.com/sammmlow/OSPACESG
+.. link-button:: https://github.com/sammmlow/openspacesg
 	:text: Link to the Open Space Singapore GitHub Repo
 	:classes: btn-info btn-block
 
@@ -111,7 +111,7 @@ Now, let us re-write all of the above information, but in very specific steps th
 
 1. If you do not have the Open Space Singapore web page on your computer, start by cloning the GitHub repository using your GitHub Desktop, or the clone command below using Git Bash:::
 
-	git clone https://github.com/sammmlow/OSPACESG.git
+	git clone https://github.com/sammmlow/openspacesg.git
 
 2. Else, if you do have it, you should do a pull from the origin in order to keep your local repository up to date before adding any new content:::
 

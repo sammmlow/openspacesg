@@ -9,9 +9,9 @@
 Community Events
 ================
 
-The December workshop will be adjourned to January 2022; spend some time with your family and friends this Christmas and New Year! Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
+Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
-Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT or 13:00 UTC)
+Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT / 13:00 UTC)
 --------------------------------------------------------------------------
 
 |
@@ -23,11 +23,11 @@ Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT or 13:00 UTC)
    Time           Speaker (Mod*)   Org                        Topic
    =============  ===============  =========================  ====================================================================================
    20:00 - 20:05  Moderator*                                  Meet, Greet, Random Introductions
-   20:05 - 20:30  Red Boumghar     LIBRE SPACE FOUNDATION     *A secret guest speaker!*
-   20:30 - 20:45  Noel Png         ALBA ORBITAL               *Waiting for Noel's title...*
-   20:45 - 21:00  Samuel Low       DSO NATIONAL LABORATORIES  Optimizing Pointing Sequences in Large Formations with Reinforcement Learning
-   21:00 - 21:15  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
-   21:15 - 21:20  Moderator*                                  Closing
+   20:05 - 20:25  Red Boumghar     PARAMETRY.AI               Blockchain Ecosystem for the Cognitive Orbit
+   20:25 - 20:45  Noel Png         ALBA ORBITAL               Pose Estimation of Uncooperative Spacecraft
+   20:35 - 20:45  Noel Png         ALBA ORBITAL               Brief Sharing on AI for Earth Observation
+   20:45 - 21:00  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
+   21:00 - 21:05  Moderator*                                  Closing
    =============  ===============  =========================  ====================================================================================
 
 |
