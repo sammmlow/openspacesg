@@ -32,6 +32,24 @@ Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT / 13:00 UTC)
 
 |
 
+Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
+--------------------------------------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ====================  =========================  ====================================================================================
+   Time           Speaker (Mod*)        Org                        Topic
+   =============  ====================  =========================  ====================================================================================
+   20:00 - 20:05  Moderator*                                       Meet, Greet, Random Introductions
+   20:05 - 20:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
+   21:45 - 21:00  Moderator*                                       Closing
+   =============  ====================  =========================  ====================================================================================
+
+|
+
 If there are available slots in the presentation line-up, please feel free to submit your talk through the link below and our administrative team will respond to you shortly!
 
 .. link-button:: https://forms.office.com/r/3aa9TtnK57
