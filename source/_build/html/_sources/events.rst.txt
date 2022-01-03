@@ -45,7 +45,7 @@ Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
    =============  ====================  =========================  ====================================================================================
    20:00 - 20:05  Moderator*                                       Meet, Greet, Random Introductions
    20:05 - 20:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
-   21:45 - 21:00  Moderator*                                       Closing
+   20:45 - 21:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
    =============  ====================  =========================  ====================================================================================
 
 |
