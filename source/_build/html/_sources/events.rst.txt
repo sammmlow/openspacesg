@@ -22,12 +22,12 @@ Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT / 13:00 UTC)
    =============  ===============  =========================  ====================================================================================
    Time           Speaker (Mod*)   Org                        Topic
    =============  ===============  =========================  ====================================================================================
-   20:00 - 20:05  Moderator*                                  Meet, Greet, Random Introductions
-   20:05 - 20:25  Red Boumghar     PARAMETRY.AI               Blockchain Ecosystem for the Cognitive Orbit
-   20:25 - 20:45  Noel Png         ALBA ORBITAL               Pose Estimation of Uncooperative Spacecraft
-   20:35 - 20:45  Noel Png         ALBA ORBITAL               Brief Sharing on AI for Earth Observation
-   20:45 - 21:00  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
-   21:00 - 21:05  Moderator*                                  Closing
+   21:00 - 21:05  Moderator*                                  Meet, Greet, Random Introductions
+   21:05 - 21:25  Red Boumghar     PARAMETRY.AI               Blockchain Ecosystem for the Cognitive Orbit
+   21:25 - 21:45  Noel Png         ALBA ORBITAL               Pose Estimation of Uncooperative Spacecraft
+   21:35 - 21:45  Noel Png         ALBA ORBITAL               Brief Sharing on AI for Earth Observation
+   21:45 - 22:00  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
+   22:00 - 22:05  Moderator*                                  Closing
    =============  ===============  =========================  ====================================================================================
 
 |
