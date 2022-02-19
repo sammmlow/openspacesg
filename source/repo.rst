@@ -13,6 +13,43 @@ Community Archives
 
 In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
+Open Space SG Rolling Workshop (28-Jan-2022)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ===============  =========================  ====================================================================================
+   Time           Speaker (Mod*)   Org                        Topic
+   =============  ===============  =========================  ====================================================================================
+   21:00 - 21:05  Moderator*                                  Meet, Greet, Random Introductions
+   21:05 - 21:35  Red Boumghar     PARAMETRY.AI               Blockchain Ecosystem for the Cognitive Orbit (Guest Speaker)
+   21:35 - 22:05  Jacob Tang       OPENSPACE SINGAPORE        Rocket Turbopump Design with CFturbo
+   22:00 - 22:05  Moderator*                                  Closing
+   =============  ===============  =========================  ====================================================================================
+
+|
+
+.. dropdown:: Blockchain Ecosystem for the Cognitive Orbit
+	:animate: fade-in
+	
+	**By: Red Boumghar, Parametry.ai**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+	
+.. dropdown:: Rocket Turbopump Design with CFturbo
+	:animate: fade-in
+	
+	**By: Jacob Tang, Open Space Singapore**
+	
+	.. link-button:: https://openspacesg.com
+		:text: No Link Available!
+		:classes: btn-success
+
 |
 
 Open Space SG Rolling Workshop (26 Nov 2021)

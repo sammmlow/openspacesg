@@ -9,28 +9,7 @@
 Community Events
 ================
 
-Our rolling workshops are just casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
-
-Our Next Open Space Rolling Workshop (28-Jan-2022, 21:00 SGT / 13:00 UTC)
---------------------------------------------------------------------------
-
-|
-
-.. table:: 
-   :widths: 18 24 18 40
-   
-   =============  ===============  =========================  ====================================================================================
-   Time           Speaker (Mod*)   Org                        Topic
-   =============  ===============  =========================  ====================================================================================
-   21:00 - 21:05  Moderator*                                  Meet, Greet, Random Introductions
-   21:05 - 21:25  Red Boumghar     PARAMETRY.AI               Blockchain Ecosystem for the Cognitive Orbit
-   21:25 - 21:45  Noel Png         ALBA ORBITAL               Pose Estimation of Uncooperative Spacecraft
-   21:35 - 21:45  Noel Png         ALBA ORBITAL               Brief Sharing on AI for Earth Observation
-   21:45 - 22:00  Jacob Tang       OPENSPACE SINGAPORE        Apollo Guidance Computer Architecture (Instruction Set, Arithmetic and Encoding)
-   22:00 - 22:05  Moderator*                                  Closing
-   =============  ===============  =========================  ====================================================================================
-
-|
+Our rolling workshops are casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
 Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
 --------------------------------------------------------------------------
@@ -43,9 +22,9 @@ Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
    =============  ====================  =========================  ====================================================================================
    Time           Speaker (Mod*)        Org                        Topic
    =============  ====================  =========================  ====================================================================================
-   20:00 - 20:05  Moderator*                                       Meet, Greet, Random Introductions
-   20:05 - 20:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
-   20:45 - 21:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
+   21:00 - 21:05  Moderator*                                       Meet, Greet, Random Introductions
+   21:05 - 21:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
+   21:45 - 22:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
    =============  ====================  =========================  ====================================================================================
 
 |
