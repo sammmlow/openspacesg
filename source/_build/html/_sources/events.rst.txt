@@ -11,7 +11,7 @@ Community Events
 
 Our rolling workshops are casual meet-ups for the community to stay connected. We discuss about community aerospace projects, our personal hobbyist projects, our latest research and developments, advancements in space law or policy, and more. There is no fixed theme; however, our discussions are scoped around aerospace activities in Singapore.
 
-Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
+Future Open Space Rolling Workshops (29-Apr-2022, 21:00 SGT / 13:00 UTC)
 --------------------------------------------------------------------------
 
 |
@@ -23,8 +23,8 @@ Future Open Space Rolling Workshops (25-Feb-2022, 21:00 SGT / 13:00 UTC)
    Time           Speaker (Mod*)        Org                        Topic
    =============  ====================  =========================  ====================================================================================
    21:00 - 21:05  Moderator*                                       Meet, Greet, Random Introductions
-   21:05 - 21:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
-   21:45 - 22:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
+   21:05 - 21:55  Dr Poh Gang Kai       NASA Goddard SFC           Introduction to Space Science Research at NASA Goddard Space Flight Center and Opportunities for Foreign Nationals
+   21:55 - 22:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
    =============  ====================  =========================  ====================================================================================
 
 |

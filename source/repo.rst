@@ -13,6 +13,26 @@ Community Archives
 
 In this page, you will find a schedule of past events, research material and shared papers from past Open Space Singapore meet-ups and workshops archived here.
 
+|
+
+Open Space SG Rolling Workshop (25-Feb-2022)
+--------------------------------------------
+
+|
+
+.. table:: 
+   :widths: 18 24 18 40
+   
+   =============  ====================  =========================  ====================================================================================
+   Time           Speaker (Mod*)        Org                        Topic
+   =============  ====================  =========================  ====================================================================================
+   21:00 - 21:05  Moderator*                                       Meet, Greet, Random Introductions
+   21:05 - 21:45  Lynette and Gang Kai  SSTL & NASA GSFC           An Open Chat on Inclusivity and Women's Perspectives on Careers in Aero/Astro
+   21:45 - 22:00  Everyone              OPENSPACE SINGAPORE        Q&A's and Off-Topics
+   =============  ====================  =========================  ====================================================================================
+
+|
+
 Open Space SG Rolling Workshop (28-Jan-2022)
 --------------------------------------------
 
